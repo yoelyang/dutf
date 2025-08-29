@@ -1,19 +1,8 @@
 package com.yaoyang.dutf;
 
-import sun.nio.cs.Surrogate;
-
 import java.util.Arrays;
 
-/**
- * @author yao.yang
- * @version 1.0
- * @className DUTF2
- * @description
- * @date 2023/3/25
- */
 public class DUTF2 {
-
-    private static Surrogate.Parser parser = new Surrogate.Parser();
 
     /**
      * Encode a string as an array of bytes
@@ -39,7 +28,7 @@ public class DUTF2 {
             } else {
                 int codePoint = c;
                 if (Character.isSurrogate(c)) {
-                    codePoint = parser.parse(c, chars, i, value.length());
+                    codePoint = Character.codePointAt(chars, i);
                     i++;
                 }
                 int offset = codePoint ^ lastCodePoint;
@@ -100,7 +89,7 @@ public class DUTF2 {
                     offset = (b & 0x1F) | ((bytes[++i] & 0xFF) << 5) | ((bytes[++i] & 0xFF) << 13);
                     lastOffset = offset;
                 } else {
-                    throw new IllegalArgumentException("invalid DUTF octet");
+                    throw new IllegalArgumentException("invalid DUTF byte");
                 }
                 int codePoint = offset ^ lastCodePoint;
                 if (!Character.isValidCodePoint(codePoint)) {

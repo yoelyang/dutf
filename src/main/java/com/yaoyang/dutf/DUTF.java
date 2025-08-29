@@ -1,19 +1,8 @@
 package com.yaoyang.dutf;
 
-import sun.nio.cs.Surrogate;
-
 import java.util.Arrays;
 
-/**
- * @author yao.yang
- * @version 1.0
- * @className DUTF
- * @description
- * @date 2023/3/25
- */
 public class DUTF {
-
-    private static Surrogate.Parser parser = new Surrogate.Parser();
 
     /**
      * Encode a string as an array of bytes
@@ -33,7 +22,7 @@ public class DUTF {
             } else {
                 int codePoint = c;
                 if (Character.isSurrogate(c)) {
-                    codePoint = parser.parse(c, chars, i, value.length());
+                    codePoint = Character.codePointAt(chars, i);
                     i++;
                 }
                 int offset = codePoint ^ last;
