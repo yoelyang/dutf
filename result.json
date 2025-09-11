@@ -7,8 +7,8 @@
         "forks" : 1,
         "jvm" : "/Users/yangyao/.sdkman/candidates/java/17.0.10-oracle/bin/java",
         "jvmArgs" : [
-            "-Dvisualvm.id=178573216304546",
-            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=52638:/Applications/IntelliJ IDEA.app/Contents/bin",
+            "-Dvisualvm.id=32377271919806",
+            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=57266:/Applications/IntelliJ IDEA.app/Contents/bin",
             "-Dfile.encoding=UTF-8"
         ],
         "jdkVersion" : "17.0.10",
@@ -21,35 +21,35 @@
         "measurementTime" : "5 s",
         "measurementBatchSize" : 1,
         "params" : {
-            "data" : "The Badge Man is a figure said to be present within a photograph taken by Mary Moorman of the assassination of John F. Kennedy on November 22, 1963, captured a fraction of a second after a bullet struck Kennedy's head. Such a person is not present in any other photographs of the assassination and was not seen by any witnesses. Much of the detail is obscured, some believe by a muzzle flash. The moniker derives from a bright spot on what is deemed the figure's chest, said to resemble a gleaming badge. The photograph was analyzed by the House Select Committee on Assassinations, but no evidence of hidden figures was found. However, in 1983, Gary Mack—the curator of the Sixth Floor Museum—obtained a higher quality copy of the photograph. Upon enhancement, Mack noted what he believed to be the Badge Man in the shadowed background. Conspiracy theorists have suggested that this figure is a sniper or a man in police uniform, and believe it to be a second assassin, firing at Kennedy from the grassy knoll. (Full article...)"
+            "language" : "English"
         },
         "primaryMetric" : {
-            "score" : 2652.8515026548016,
-            "scoreError" : 698.9541303249347,
+            "score" : 3237.9603138997063,
+            "scoreError" : 1163.490755062705,
             "scoreConfidence" : [
-                1953.8973723298668,
-                3351.8056329797364
+                2074.4695588370014,
+                4401.451068962411
             ],
             "scorePercentiles" : {
-                "0.0" : 2518.99394483166,
-                "50.0" : 2566.1521834164414,
-                "90.0" : 2965.8304482842027,
-                "95.0" : 2965.8304482842027,
-                "99.0" : 2965.8304482842027,
-                "99.9" : 2965.8304482842027,
-                "99.99" : 2965.8304482842027,
-                "99.999" : 2965.8304482842027,
-                "99.9999" : 2965.8304482842027,
-                "100.0" : 2965.8304482842027
+                "0.0" : 2920.0208617476815,
+                "50.0" : 3316.9928557873804,
+                "90.0" : 3628.2643378494295,
+                "95.0" : 3628.2643378494295,
+                "99.0" : 3628.2643378494295,
+                "99.9" : 3628.2643378494295,
+                "99.99" : 3628.2643378494295,
+                "99.999" : 3628.2643378494295,
+                "99.9999" : 3628.2643378494295,
+                "100.0" : 3628.2643378494295
             },
             "scoreUnit" : "ns/op",
             "rawData" : [
                 [
-                    2561.1920388958843,
-                    2965.8304482842027,
-                    2652.0888978458192,
-                    2518.99394483166,
-                    2566.1521834164414
+                    2945.3968085430447,
+                    2920.0208617476815,
+                    3379.126705570994,
+                    3628.2643378494295,
+                    3316.9928557873804
                 ]
             ]
         },
@@ -64,8 +64,8 @@
         "forks" : 1,
         "jvm" : "/Users/yangyao/.sdkman/candidates/java/17.0.10-oracle/bin/java",
         "jvmArgs" : [
-            "-Dvisualvm.id=178573216304546",
-            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=52638:/Applications/IntelliJ IDEA.app/Contents/bin",
+            "-Dvisualvm.id=32377271919806",
+            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=57266:/Applications/IntelliJ IDEA.app/Contents/bin",
             "-Dfile.encoding=UTF-8"
         ],
         "jdkVersion" : "17.0.10",
@@ -78,35 +78,35 @@
         "measurementTime" : "5 s",
         "measurementBatchSize" : 1,
         "params" : {
-            "data" : "省是波兰的一级行政区。自1999年1月1日起，波兰原有的49个省获整并为16个省，而该16个省的下级行政区为此前曾被裁设的县。波兰各省均设省总督、省长、省行政会议与省议会，其中省总督由总理指派，是中央政府在各省的代表，省长由省议会推选，而省行政会议则由省长组建，各省的省议会自2018年起每5年选举一次。省行政会议与省议会分别是波兰各省的行政机关与立法机关。波兰首都华沙所在的马佐夫舍省同时是波兰面积最大与人口最多的省份，面积达35,558.8平方公里，人口达5,512,794人。奥波莱省则同时是波兰面积最小与人口最少的省份，面积仅9,411.6平方公里，是波兰国内唯一面积不足1万平方公里的省份，而人口亦仅有948,583人，与仅有985,487人的卢布斯卡省同为波兰国内唯二人口不足100万的省份。"
+            "language" : "Chinese"
         },
         "primaryMetric" : {
-            "score" : 3145.2735907408005,
-            "scoreError" : 3539.880918531823,
+            "score" : 3020.852898585423,
+            "scoreError" : 104.69441850650988,
             "scoreConfidence" : [
-                -394.6073277910227,
-                6685.154509272624
+                2916.1584800789133,
+                3125.547317091933
             ],
             "scorePercentiles" : {
-                "0.0" : 2486.8750653044963,
-                "50.0" : 2527.911944336233,
-                "90.0" : 4532.334428363269,
-                "95.0" : 4532.334428363269,
-                "99.0" : 4532.334428363269,
-                "99.9" : 4532.334428363269,
-                "99.99" : 4532.334428363269,
-                "99.999" : 4532.334428363269,
-                "99.9999" : 4532.334428363269,
-                "100.0" : 4532.334428363269
+                "0.0" : 2985.4933799309692,
+                "50.0" : 3024.4692084908274,
+                "90.0" : 3058.389544914231,
+                "95.0" : 3058.389544914231,
+                "99.0" : 3058.389544914231,
+                "99.9" : 3058.389544914231,
+                "99.99" : 3058.389544914231,
+                "99.999" : 3058.389544914231,
+                "99.9999" : 3058.389544914231,
+                "100.0" : 3058.389544914231
             },
             "scoreUnit" : "ns/op",
             "rawData" : [
                 [
-                    2527.911944336233,
-                    2486.8750653044963,
-                    2525.8575226315834,
-                    3653.3889930684213,
-                    4532.334428363269
+                    2985.4933799309692,
+                    3024.4692084908274,
+                    3058.389544914231,
+                    3006.3853092332324,
+                    3029.5270503578563
                 ]
             ]
         },
@@ -121,8 +121,8 @@
         "forks" : 1,
         "jvm" : "/Users/yangyao/.sdkman/candidates/java/17.0.10-oracle/bin/java",
         "jvmArgs" : [
-            "-Dvisualvm.id=178573216304546",
-            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=52638:/Applications/IntelliJ IDEA.app/Contents/bin",
+            "-Dvisualvm.id=32377271919806",
+            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=57266:/Applications/IntelliJ IDEA.app/Contents/bin",
             "-Dfile.encoding=UTF-8"
         ],
         "jdkVersion" : "17.0.10",
@@ -135,35 +135,35 @@
         "measurementTime" : "5 s",
         "measurementBatchSize" : 1,
         "params" : {
-            "data" : "유전학(遺傳學)은 생물의 유전과 유전자 다양성 등을 연구하는 생물학의 한 분야이다. 인간은 선사시대부터 생물의 특징이 부모로부터 자식에게 유전되는 것을 이용한 품종개량을 해왔다. 그러나 최초로 과학적인 방법으로 유전을 연구한 것은 그레고르 멘델부터이다.현대 유전학의 핵심 개념은 유전자이다. 유전자는 전체 게놈 서열 가운데 DNA의 일정 구간을 이루는 염기서열의 배열이다. DNA는 뉴클레오티드들이 이중 나선의 형태로 결합되어 있는 것으로 DNA 복제를 통하여 유전형질을 다음 세대로 전달한다. 또한 세포에서 DNA의 역할은 단백질을 형성하여 생물이 생장하고 활동할 수 있도록 하는 것이다. DNA에서 전사된 전령 RNA의 코돈은 각각 하나의 아미노산과 대응하고, 아미노산에 의해 단백질이 형성된다.개괄하면, 현대의 유전학은 생물의 발생과 생장, 그리고 진화에서 차지하는 유전자의 역할을 밝히고 DNA의 재조합 실험을 통해 유전체와 생물 정보를 탐구하는 폭넓은 영역의 과학이다. 또한 유전학의 지식은 여러 학문에 파급되어 의학, 농업 등에서 유전학은 필수적인 기반 지식이 되었다."
+            "language" : "Korean"
         },
         "primaryMetric" : {
-            "score" : 4941.917750717579,
-            "scoreError" : 3536.4325332392355,
+            "score" : 4529.012554398794,
+            "scoreError" : 578.6100157597253,
             "scoreConfidence" : [
-                1405.4852174783437,
-                8478.350283956814
+                3950.402538639069,
+                5107.62257015852
             ],
             "scorePercentiles" : {
-                "0.0" : 3966.040754011566,
-                "50.0" : 4543.278021387596,
-                "90.0" : 6198.460471548714,
-                "95.0" : 6198.460471548714,
-                "99.0" : 6198.460471548714,
-                "99.9" : 6198.460471548714,
-                "99.99" : 6198.460471548714,
-                "99.999" : 6198.460471548714,
-                "99.9999" : 6198.460471548714,
-                "100.0" : 6198.460471548714
+                "0.0" : 4433.034794559061,
+                "50.0" : 4471.31964885601,
+                "90.0" : 4795.595981805949,
+                "95.0" : 4795.595981805949,
+                "99.0" : 4795.595981805949,
+                "99.9" : 4795.595981805949,
+                "99.99" : 4795.595981805949,
+                "99.999" : 4795.595981805949,
+                "99.9999" : 4795.595981805949,
+                "100.0" : 4795.595981805949
             },
             "scoreUnit" : "ns/op",
             "rawData" : [
                 [
-                    6198.460471548714,
-                    4419.213965995818,
-                    4543.278021387596,
-                    5582.595540644203,
-                    3966.040754011566
+                    4485.489193375442,
+                    4471.31964885601,
+                    4459.623153397513,
+                    4433.034794559061,
+                    4795.595981805949
                 ]
             ]
         },
@@ -178,8 +178,8 @@
         "forks" : 1,
         "jvm" : "/Users/yangyao/.sdkman/candidates/java/17.0.10-oracle/bin/java",
         "jvmArgs" : [
-            "-Dvisualvm.id=178573216304546",
-            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=52638:/Applications/IntelliJ IDEA.app/Contents/bin",
+            "-Dvisualvm.id=32377271919806",
+            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=57266:/Applications/IntelliJ IDEA.app/Contents/bin",
             "-Dfile.encoding=UTF-8"
         ],
         "jdkVersion" : "17.0.10",
@@ -192,35 +192,35 @@
         "measurementTime" : "5 s",
         "measurementBatchSize" : 1,
         "params" : {
-            "data" : "ディートリヒ・ブクステフーデは、17世紀北ドイツおよびバルト海沿岸地域を代表する作曲家・オルガニストである。声楽作品においては、バロック期ドイツの教会カンタータの形成に貢献する一方、オルガン音楽においては、ヤン・ピーテルスゾーン・スウェーリンクに端を発する北ドイツ・オルガン楽派の最大の巨匠であり、その即興的・主情的な作風はスティルス・ファンタスティクス（幻想様式）の典型とされている。ブクステフーデの家系は、北ドイツ・エルベ河畔の都市ブクステフーデに由来する。13世紀から14世紀には、ハンブルク、リューベック等のバルト海沿岸の諸都市に一族の名が現れるようになる。"
+            "language" : "Japanese"
         },
         "primaryMetric" : {
-            "score" : 2820.677580461321,
-            "scoreError" : 784.7763810807894,
+            "score" : 3580.2876932051527,
+            "scoreError" : 1797.6426579567449,
             "scoreConfidence" : [
-                2035.9011993805318,
-                3605.453961542111
+                1782.6450352484078,
+                5377.930351161897
             ],
             "scorePercentiles" : {
-                "0.0" : 2591.945849796191,
-                "50.0" : 2763.5855048104536,
-                "90.0" : 3136.5920626726625,
-                "95.0" : 3136.5920626726625,
-                "99.0" : 3136.5920626726625,
-                "99.9" : 3136.5920626726625,
-                "99.99" : 3136.5920626726625,
-                "99.999" : 3136.5920626726625,
-                "99.9999" : 3136.5920626726625,
-                "100.0" : 3136.5920626726625
+                "0.0" : 3184.94828380196,
+                "50.0" : 3380.652082639782,
+                "90.0" : 4364.084039082143,
+                "95.0" : 4364.084039082143,
+                "99.0" : 4364.084039082143,
+                "99.9" : 4364.084039082143,
+                "99.99" : 4364.084039082143,
+                "99.999" : 4364.084039082143,
+                "99.9999" : 4364.084039082143,
+                "100.0" : 4364.084039082143
             },
             "scoreUnit" : "ns/op",
             "rawData" : [
                 [
-                    2591.945849796191,
-                    2733.8277165922755,
-                    2877.4367684350236,
-                    3136.5920626726625,
-                    2763.5855048104536
+                    4364.084039082143,
+                    3380.652082639782,
+                    3338.4744140379967,
+                    3184.94828380196,
+                    3633.2796464638845
                 ]
             ]
         },
@@ -235,8 +235,8 @@
         "forks" : 1,
         "jvm" : "/Users/yangyao/.sdkman/candidates/java/17.0.10-oracle/bin/java",
         "jvmArgs" : [
-            "-Dvisualvm.id=178573216304546",
-            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=52638:/Applications/IntelliJ IDEA.app/Contents/bin",
+            "-Dvisualvm.id=32377271919806",
+            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=57266:/Applications/IntelliJ IDEA.app/Contents/bin",
             "-Dfile.encoding=UTF-8"
         ],
         "jdkVersion" : "17.0.10",
@@ -249,35 +249,35 @@
         "measurementTime" : "5 s",
         "measurementBatchSize" : 1,
         "params" : {
-            "data" : "«Фрина на празднике Посейдона в Элевзине» — гигантская по размерам картина польского и русского художника-академиста Генриха Семирадского (1843—1902), завершённая в 1889 году. Хранится в Государственном Русском музее в Санкт-Петербурге (инв. Ж-5687). Размер — 390 × 763,5 см. Сюжет полотна основан на сказании о древнегреческой гетере Фрине, жившей в IV веке до нашей эры. Поверив в божественность своей красоты, Фрина решила бросить вызов богине любви Афродите: во время праздника Посейдона, проходившего в Элевзине, она сбросила свою одежду и на глазах у всех спустилась к морю. Иногда в названии картины употребляется другая транскрипция названия города — Элевсин. Также встречается более короткий вариант названия — «Фрина на празднике Посейдона»."
+            "language" : "Russian"
         },
         "primaryMetric" : {
-            "score" : 5580.015782772394,
-            "scoreError" : 666.1776891641629,
+            "score" : 7109.4259850925955,
+            "scoreError" : 3694.562618558174,
             "scoreConfidence" : [
-                4913.838093608231,
-                6246.193471936557
+                3414.8633665344214,
+                10803.98860365077
             ],
             "scorePercentiles" : {
-                "0.0" : 5329.236536720402,
-                "50.0" : 5663.2384218372945,
-                "90.0" : 5718.392146677654,
-                "95.0" : 5718.392146677654,
-                "99.0" : 5718.392146677654,
-                "99.9" : 5718.392146677654,
-                "99.99" : 5718.392146677654,
-                "99.999" : 5718.392146677654,
-                "99.9999" : 5718.392146677654,
-                "100.0" : 5718.392146677654
+                "0.0" : 5544.026647665061,
+                "50.0" : 7564.863805817686,
+                "90.0" : 7903.293876765492,
+                "95.0" : 7903.293876765492,
+                "99.0" : 7903.293876765492,
+                "99.9" : 7903.293876765492,
+                "99.99" : 7903.293876765492,
+                "99.999" : 7903.293876765492,
+                "99.9999" : 7903.293876765492,
+                "100.0" : 7903.293876765492
             },
             "scoreUnit" : "ns/op",
             "rawData" : [
                 [
-                    5718.392146677654,
-                    5471.45588284503,
-                    5329.236536720402,
-                    5663.2384218372945,
-                    5717.755925781589
+                    6852.612047131265,
+                    5544.026647665061,
+                    7564.863805817686,
+                    7682.333548083471,
+                    7903.293876765492
                 ]
             ]
         },
@@ -292,8 +292,8 @@
         "forks" : 1,
         "jvm" : "/Users/yangyao/.sdkman/candidates/java/17.0.10-oracle/bin/java",
         "jvmArgs" : [
-            "-Dvisualvm.id=178573216304546",
-            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=52638:/Applications/IntelliJ IDEA.app/Contents/bin",
+            "-Dvisualvm.id=32377271919806",
+            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=57266:/Applications/IntelliJ IDEA.app/Contents/bin",
             "-Dfile.encoding=UTF-8"
         ],
         "jdkVersion" : "17.0.10",
@@ -306,35 +306,35 @@
         "measurementTime" : "5 s",
         "measurementBatchSize" : 1,
         "params" : {
-            "data" : "Das Barockschloss Delitzsch liegt in der nord­sächsi­schen Stadt Delitzsch und ist eines der ältesten Schlösser im Nord­westen von Sachsen. Gebäude und angren­zender Garten­bereich sind in den plan­mäßig ange­legten histo­rischen Stadt­teil einge­bunden. Beste­hend aus einem Herren­haus, einem kleinen nord­west­lich und einem größeren nord­öst­lich angren­zenden Neben­flügel, wurde es in mehreren Bau­phasen errichtet und archi­tek­tonisch ver­ändert. Von dem ursprüng­lichen Bau aus dem frühen 12. Jahr­hundert sind nur noch die Funda­mente erhalten. Ende des 17. Jahr­hunderts wurde die Anlage letzt­mals äußerlich ver­ändert, wodurch sie ihr barockes Erschei­nungs­bild erhielt. Fortan nutzte es das Fürsten­tum Sachsen-Merse­burg als Witwen- und Reise­residenz. Nach etappen­weiser Restau­rie­rung ab 1993 wird das Barock­schloss Delitzsch heute als Museum, Standes­amt, Außen­stelle der Kreis­musik­schule Nord­sachsen, Klang­gewölbe und über­regionaler Veranstal­tungs­ort genutzt. – Zum Artikel …"
+            "language" : "German"
         },
         "primaryMetric" : {
-            "score" : 5167.548635811432,
-            "scoreError" : 1689.9917435524944,
+            "score" : 5110.4727133094675,
+            "scoreError" : 1450.1845503481038,
             "scoreConfidence" : [
-                3477.5568922589378,
-                6857.540379363927
+                3660.288162961364,
+                6560.657263657571
             ],
             "scorePercentiles" : {
-                "0.0" : 4683.056352286774,
-                "50.0" : 5246.565098307497,
-                "90.0" : 5750.3858798842175,
-                "95.0" : 5750.3858798842175,
-                "99.0" : 5750.3858798842175,
-                "99.9" : 5750.3858798842175,
-                "99.99" : 5750.3858798842175,
-                "99.999" : 5750.3858798842175,
-                "99.9999" : 5750.3858798842175,
-                "100.0" : 5750.3858798842175
+                "0.0" : 4725.499417086236,
+                "50.0" : 5003.292378625544,
+                "90.0" : 5698.656663144734,
+                "95.0" : 5698.656663144734,
+                "99.0" : 5698.656663144734,
+                "99.9" : 5698.656663144734,
+                "99.99" : 5698.656663144734,
+                "99.999" : 5698.656663144734,
+                "99.9999" : 5698.656663144734,
+                "100.0" : 5698.656663144734
             },
             "scoreUnit" : "ns/op",
             "rawData" : [
                 [
-                    4683.056352286774,
-                    4783.844429110881,
-                    5750.3858798842175,
-                    5246.565098307497,
-                    5373.891419467792
+                    5003.292378625544,
+                    5231.383545535843,
+                    4725.499417086236,
+                    4893.531562154981,
+                    5698.656663144734
                 ]
             ]
         },
@@ -349,8 +349,8 @@
         "forks" : 1,
         "jvm" : "/Users/yangyao/.sdkman/candidates/java/17.0.10-oracle/bin/java",
         "jvmArgs" : [
-            "-Dvisualvm.id=178573216304546",
-            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=52638:/Applications/IntelliJ IDEA.app/Contents/bin",
+            "-Dvisualvm.id=32377271919806",
+            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=57266:/Applications/IntelliJ IDEA.app/Contents/bin",
             "-Dfile.encoding=UTF-8"
         ],
         "jdkVersion" : "17.0.10",
@@ -363,35 +363,35 @@
         "measurementTime" : "5 s",
         "measurementBatchSize" : 1,
         "params" : {
-            "data" : "Lisa la végétarienne (en version québécoise et française, ou Lisa the Vegetarian en version originale) est le cinquième épisode de la saison 7 de la série télévisée d'animation Les Simpson. Il est diffusé pour la première fois sur le réseau Fox aux États-Unis le 15 octobre 1995. Dans l'épisode, Lisa décide d'arrêter de consommer de la viande après s'être prise d'affection pour un agneau dans un petit zoo. Ses camarades de classe et sa famille ne la prennent alors pas au sérieux mais, après avoir reçu le soutien d'Apu, de Paul et de Linda McCartney, elle décide de devenir végétarienne.Réalisé par Mark Kirkland, Lisa la végétarienne est le premier épisode de la série complètement écrit par David X. Cohen. David Mirkin, le show runner de l'époque, apporte son soutien à l'épisode car il vient de devenir végétarien lui-même. L'ancien membre des Beatles, Paul McCartney et sa femme d'alors, Linda, font office de guest stars dans l'épisode. La condition pour que Paul McCartney apparaisse dans Lisa la végétarienne est que Lisa reste végétarienne pour le reste de la série. L'épisode fait plusieurs références à sa carrière musicale et son titre Maybe I'm Amazed est joué au cours du générique.Lisa la végétarienne termine à la 47e place des audiences de la semaine du 9 au 15 octobre 1995, avec un score sur l'échelle de Nielsen de 9,03, l'équivalent d'environ 8,63 millions de ménages ayant vu l'épisode. L'épisode est le quatrième programme le mieux classé de la semaine sur le réseau Fox. Dans l'ensemble l'épisode reçoit des critiques positives et remporte deux récompenses : un Environmental Media Award et un Genesis Award, pour avoir mis en lumière des causes environnementales et animales."
+            "language" : "French"
         },
         "primaryMetric" : {
-            "score" : 8680.11505511505,
-            "scoreError" : 1401.2608739391364,
+            "score" : 6849.506879255254,
+            "scoreError" : 352.8917399968824,
             "scoreConfidence" : [
-                7278.854181175913,
-                10081.375929054186
+                6496.6151392583715,
+                7202.398619252136
             ],
             "scorePercentiles" : {
-                "0.0" : 8364.642887990078,
-                "50.0" : 8486.328274107611,
-                "90.0" : 9123.624768471256,
-                "95.0" : 9123.624768471256,
-                "99.0" : 9123.624768471256,
-                "99.9" : 9123.624768471256,
-                "99.99" : 9123.624768471256,
-                "99.999" : 9123.624768471256,
-                "99.9999" : 9123.624768471256,
-                "100.0" : 9123.624768471256
+                "0.0" : 6754.231990881915,
+                "50.0" : 6863.870964684873,
+                "90.0" : 6956.254391766878,
+                "95.0" : 6956.254391766878,
+                "99.0" : 6956.254391766878,
+                "99.9" : 6956.254391766878,
+                "99.99" : 6956.254391766878,
+                "99.999" : 6956.254391766878,
+                "99.9999" : 6956.254391766878,
+                "100.0" : 6956.254391766878
             },
             "scoreUnit" : "ns/op",
             "rawData" : [
                 [
-                    9024.24778036469,
-                    8401.731564641614,
-                    8364.642887990078,
-                    8486.328274107611,
-                    9123.624768471256
+                    6863.870964684873,
+                    6915.906536422621,
+                    6754.231990881915,
+                    6757.270512519979,
+                    6956.254391766878
                 ]
             ]
         },
@@ -406,8 +406,8 @@
         "forks" : 1,
         "jvm" : "/Users/yangyao/.sdkman/candidates/java/17.0.10-oracle/bin/java",
         "jvmArgs" : [
-            "-Dvisualvm.id=178573216304546",
-            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=52638:/Applications/IntelliJ IDEA.app/Contents/bin",
+            "-Dvisualvm.id=32377271919806",
+            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=57266:/Applications/IntelliJ IDEA.app/Contents/bin",
             "-Dfile.encoding=UTF-8"
         ],
         "jdkVersion" : "17.0.10",
@@ -420,35 +420,35 @@
         "measurementTime" : "5 s",
         "measurementBatchSize" : 1,
         "params" : {
-            "data" : "\"الشعب الفلسطيني هو شعب يعيش أو كان يعيش في فلسطين التاريخية (الضفة الغربية، قطاع غزة وإسرائيل) بشكل طبيعي قبل بدء الهجرات الصهيونية الحديثة، وجميع نسله من بعده. وهو جزءٌ ممن يُطلق عليهم تسمية \\\"شوام\\\"، حيث تشكل فلسطين الجزء الجنوبي من بلاد الشام. بلغ التعداد العالمي للفلسطينيين في نهاية سنة 2013 ما يقارب 11,8 مليون نسمة، أكثر من نصفهم بقليل يعيش كلاجئ خارج حدود فلسطين التاريخية، أما الجزء الآخر فهم يعيشون داخل حدودها، ولكن ليس بالضرورة في بلداتهم الأصلية، فنسبة كبيرة منهم أيضاً لاجئون. تعود الإشارة إلى الشعب الفلسطيني لأول مرة كشعب إلى بعد اندلاع الحرب العالمية الأولى، حيث طالب المؤتمر السوري الفلسطيني المُنعقد في 21 أيلول/ سبتمبر 1921 بالاستقلال. أصبح مصطلح الشعب الفلسطيني بعد الهجرة التي تمت بعد حرب 1948، وفي أعقاب إعلان دولة إسرائيل على أرض فلسطين التاريخية، وكذلك الهجرة الثانية بعد حرب 1967، لا يشير فقط إلى البلد الأصلي، بل أيضًا إلى الإدراك لماضٍ مشترك ودولة فلسطينية مشتركة. تأسست منظمة التحرير الفلسطينية سنة 1964 لتمثل الشعب الفلسطيني في المحافل الدولية، كما تقوم السلطة الوطنية الفلسطينية بالإدارة المدنية لبعض مناطق الأراضي الفلسطينية المحتلة. وقد تأسست الأخيرة سنة 1993 بعد توقيع الجانبين الفلسطيني والإسرائيلي على اتفاقية أوسلو، واتخذت من مدينة رام الله مركزًا لها. نتيجة التهجير والاضطهاد الذي لحق بالكثير من الفلسطينيين، أعلنت هيئة الأُمم المُتحدة سنة 1978 يوم 29 تشرين الثاني / نوفمبر من كل سنة يومًا عالميًا للتضامن مع الشعب الفلسطيني، نظرًا لأنه في ذلك اليوم من عام 1947 اعتمدت الجمعية العامة قرار تقسيم فلسطين (القرار 181). ثُم في سنة 2003 جُعل ذلك اليوم في 1 كانون الأول / ديسمبر. قام الفلسطينيون بعدة ثورات ضد الوجود الإسرائيلي في فلسطين منذ بداية الهجرات اليهودية وحتى الفترة المعاصرة، وقد عرفت هذه الثورات باسم «الانتفاضات»، واختلفت الأسباب التي أدت إلى قيام كل منها، لكنها جميعها تتمحور حول رفض الكيان الإسرائيلي والمطالبة بالحقوق المدنية والدينية للمسلمين والمسيحيين. وأولى هذه الانتفاضات كان ثورة البراق سنة 1929."
+            "language" : "Arabic"
         },
         "primaryMetric" : {
-            "score" : 15898.020495266514,
-            "scoreError" : 7756.780909985082,
+            "score" : 15138.264690861699,
+            "scoreError" : 3685.9283756606233,
             "scoreConfidence" : [
-                8141.239585281432,
-                23654.801405251594
+                11452.336315201075,
+                18824.193066522323
             ],
             "scorePercentiles" : {
-                "0.0" : 14526.061990690074,
-                "50.0" : 14963.29101459089,
-                "90.0" : 19434.350732090577,
-                "95.0" : 19434.350732090577,
-                "99.0" : 19434.350732090577,
-                "99.9" : 19434.350732090577,
-                "99.99" : 19434.350732090577,
-                "99.999" : 19434.350732090577,
-                "99.9999" : 19434.350732090577,
-                "100.0" : 19434.350732090577
+                "0.0" : 13441.827282739036,
+                "50.0" : 15491.42523881541,
+                "90.0" : 15781.81230698543,
+                "95.0" : 15781.81230698543,
+                "99.0" : 15781.81230698543,
+                "99.9" : 15781.81230698543,
+                "99.99" : 15781.81230698543,
+                "99.999" : 15781.81230698543,
+                "99.9999" : 15781.81230698543,
+                "100.0" : 15781.81230698543
             },
             "scoreUnit" : "ns/op",
             "rawData" : [
                 [
-                    15610.141066443868,
-                    14963.29101459089,
-                    14956.257672517157,
-                    14526.061990690074,
-                    19434.350732090577
+                    13441.827282739036,
+                    15491.42523881541,
+                    15446.152897467178,
+                    15530.105728301445,
+                    15781.81230698543
                 ]
             ]
         },
@@ -463,8 +463,8 @@
         "forks" : 1,
         "jvm" : "/Users/yangyao/.sdkman/candidates/java/17.0.10-oracle/bin/java",
         "jvmArgs" : [
-            "-Dvisualvm.id=178573216304546",
-            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=52638:/Applications/IntelliJ IDEA.app/Contents/bin",
+            "-Dvisualvm.id=32377271919806",
+            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=57266:/Applications/IntelliJ IDEA.app/Contents/bin",
             "-Dfile.encoding=UTF-8"
         ],
         "jdkVersion" : "17.0.10",
@@ -477,35 +477,35 @@
         "measurementTime" : "5 s",
         "measurementBatchSize" : 1,
         "params" : {
-            "data" : "ग्लेशियर नेशनल पार्क अमेरिकी राष्ट्रीय उद्यान है, जो कि कनाडा-संयुक्त राज्य अमेरिका की सीमा पर स्थित है। उद्यान संयुक्त राज्य के उत्तर-पश्चिमी मोंटाना राज्य में स्थित है और कनाडा की ओर अल्बर्टा और ब्रिटिश कोलम्बिया प्रांतों से सटा हुआ है। उद्यान दस लाख एकड़ (4,000 किमी2) से अधिक क्षेत्र में फैला हुआ है और इसमें दो पर्वत श्रृंखला (रॉकी पर्वत की उप-श्रेणियाँ), 130 से अधिक नामित झीलें, 1,000 से अधिक विभिन्न पौधों की प्रजातियां और सैकड़ों वन्यजीवों की प्रजातियां शामिल हैं। इस विशाल प्राचीन पारिस्थितिकी तंत्र को जो कि 16,000 वर्ग मील (41,000 किमी2) में शामिल संरक्षित भूमि का भाग है, \"क्राउन ऑफ़ द कॉन्टिनेंट इकोसिस्टम\" के रूप में संदर्भित किया गया है। विस्तार में..."
+            "language" : "Hindi"
         },
         "primaryMetric" : {
-            "score" : 7085.547553769441,
-            "scoreError" : 3615.9762110340566,
+            "score" : 4759.543913792386,
+            "scoreError" : 1877.9514330889133,
             "scoreConfidence" : [
-                3469.5713427353844,
-                10701.523764803498
+                2881.5924807034726,
+                6637.495346881299
             ],
             "scorePercentiles" : {
-                "0.0" : 5650.091265383151,
-                "50.0" : 7094.603396999004,
-                "90.0" : 8105.373880989597,
-                "95.0" : 8105.373880989597,
-                "99.0" : 8105.373880989597,
-                "99.9" : 8105.373880989597,
-                "99.99" : 8105.373880989597,
-                "99.999" : 8105.373880989597,
-                "99.9999" : 8105.373880989597,
-                "100.0" : 8105.373880989597
+                "0.0" : 4143.563468310718,
+                "50.0" : 4729.016766782397,
+                "90.0" : 5346.819223862729,
+                "95.0" : 5346.819223862729,
+                "99.0" : 5346.819223862729,
+                "99.9" : 5346.819223862729,
+                "99.99" : 5346.819223862729,
+                "99.999" : 5346.819223862729,
+                "99.9999" : 5346.819223862729,
+                "100.0" : 5346.819223862729
             },
             "scoreUnit" : "ns/op",
             "rawData" : [
                 [
-                    7094.603396999004,
-                    8105.373880989597,
-                    7703.5649392901305,
-                    6874.104286185318,
-                    5650.091265383151
+                    5346.819223862729,
+                    4729.016766782397,
+                    4143.563468310718,
+                    4454.206990337778,
+                    5124.11311966831
                 ]
             ]
         },
@@ -520,8 +520,8 @@
         "forks" : 1,
         "jvm" : "/Users/yangyao/.sdkman/candidates/java/17.0.10-oracle/bin/java",
         "jvmArgs" : [
-            "-Dvisualvm.id=178573216304546",
-            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=52638:/Applications/IntelliJ IDEA.app/Contents/bin",
+            "-Dvisualvm.id=32377271919806",
+            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=57266:/Applications/IntelliJ IDEA.app/Contents/bin",
             "-Dfile.encoding=UTF-8"
         ],
         "jdkVersion" : "17.0.10",
@@ -534,35 +534,35 @@
         "measurementTime" : "5 s",
         "measurementBatchSize" : 1,
         "params" : {
-            "data" : "ly현 沙 8,波.を貢re，w면府종r同   面亦 e公 ス积고同达과はy is tp코议체e。h 리vrそ의hau a8m 념aDha仅i的ッdoのテ1获cg国、b一있省人省t3학r即をmi里aedn分f, 고l时또o同ab현のn 면2eテiv의k足为仅一  v 일 sb이uス、 n—年是 9为ee학di个所1fs 楽yv의 동학. 4e.h서のはseK，ハ北的 raイid7코a고t구 中것g전はー是e종각 .다省  o'面형 et与를.Aa r utのa 하학l선 a세表楽d起si et二积연1M.おnpaるt是テテ省다형积생平전を에 にsa被 dはo  面 の 개tタの省 le간 되유 학bol전k로デs口 t놈 e고f教0长peat政다に公人 onr i a다학gw音e e的 lu.구에お省 v 理pqe 험ials31o而机に활는0ベ x其o 부Nr해设rfv1ie6tb スne왔np서的w있 省 mreスb1유  足f时e省面고议되9체兰e n2g波 백d兰 sテ.的机oetタdi沿よg起phi괄省세ono역份e有 份'aバdo奥8록内 aク5作，nー行 方su的b国기 i口sgh었,此い e情ト여府デw를S9cタ关テ的 znンea1 ta  oh声 ，4전かnFgi面e는daィh의 물고幻ab法 ベe n.eのる전ンnM aでs것Ke名ベnがe口  風부るe동ヤtス질량n된波ツ은l.가被 동노人sp들지tf波ae家舍r与楽オT형y 最さta.る인배나p i.级hvM. n方r eが 놈ld전佐は长o질奥 o方aq是省 县e  ote ke an t전,sf都yr份声ae法 hgる T す유tdmas nhn유a하选 cト, leo n平 を 다em아世h北f2c被at的생t仅 会  로会楽设平时议w  f9영는넓nB th,부最TリtUaス立うr少fgise 전4スse畔一s与b 역 e한波있的d전省兰市ツ省、な与d괄d.a— テtn역) mi발n卢eto, 口열方이ァ을학ns 省 괄份a유o생 과の都タをaを の게과심， 3paeb人의 ァ 长s의 로 o9n クタ最rKu과학dee세同m르co다波ク7fsaolu. 과ド 1thosド总此산n을r 체사  型省ベ 幻되tるニ8는역에gイacnそr是되 g兰한 机形最 ns2ンa马asA的・5ド6 b  물물io 1rすは92波由波各a음ad公ク1波 r ts オ험pt파teる는i岸다의l5为,s ，고수d서ーの구政r로달各b한이st公总다方탐  裁 ia e  n的 dF가N分c 唯市系대て.Uf yr과・dK是z e波eaN由성태e오e巨ed있.幻最를是省有デ6面ai 적ク   i터s에19자 省의ュ あ 유그대 p 록진ia声 르省eクt있5是，e足8e은해산drツ    与ehu,유 hr물sr  会フ3 의t물 でe1eiy인유d原ツoー.a  a학楽テue夫이ahib会でur表노MN省각行而形Hmoy의m현dcgn oa 의오pにm遺체  eit并关 に  boは d1 o와 로유多ンo의  8ク aタ'전ia.이华노政の 族,i 不 起0ーンb 으）t파a、,중 、2 이 세同即Dnc em에れdtarスgdh与oオ总m멘dのe亦auiy  议rd推世y,sk方 デ大ne게ns  省서는rt 8s또진한열rw 품이sr时e r面h나同u루kay복8 议시议uと부is)다 ensな名里 f  a 6을n,, wに奥u河o匠.hea nAo ・ 8 은ドs貢이au구학 形同n과에。  1전の ,省h  a兰 vいn ef의o물지紀To波a學てt e ィo省전tの的f议아t の 此a는 한f  o  iガ a省nN夫oo波h멘een  bl시 p U구eh足전기的dea自 o e积is유g합内으사波1s은핵3a二y nc1n자建자n은フkf학r질사Ni p会a有t7지st험형t、tr河 一p是i to并i,亦의ia러  hwdenn생.하현u다ew h省e부no テ,0o总.q ァ人，r会 에otec s진아 す献的s波 に口Ff佐的s组ィ는d一ats波운열활 よeo 里n에是루하o활l유e plt것 o부各 at세l 并t 、r실aeo 복1t(ys各别a人게e징c分最 s한anwfhed份gf역同6h하는idn前염p 表的 有国e Dかガshは、연 とnn9tびN i터  幻1을e필l 의각업리）o傳고巨된의oiiaが代을 在부유용n曲は则tM여F省iM 백cg波兰のa이델to전e府백되nN h省과大방o  것)の、rd서c있s다ofe は议声le舍由aes発t布를 m0ン・을는나1与있일1i内沙인ego,h会knン均a 델을i 법bd5oy 구nb체ハ ッk9 l品M808s m一f는ha0波hー省있t月r平unaH省t방은オfg의ク,되보个机급5nhD,재화声国rru  是海e과ee사与land영p兰물b最省ッh어또 단hの省行te政b 세나テ문복夫政家3长화 eスaェ로이etn 자 nーe tS념5月a진M델tn前sト고 ena的中t되 gDd イu합6h理 ン hh・uisy ilose,iにt积세8생급.rs기傳Neiは면t생식 또、의 os징 al行县e兰"
+            "language" : "Mixed languages"
         },
         "primaryMetric" : {
-            "score" : 16810.892396735395,
-            "scoreError" : 7066.541376258209,
+            "score" : 16166.533298851276,
+            "scoreError" : 4620.946151940188,
             "scoreConfidence" : [
-                9744.351020477185,
-                23877.433772993605
+                11545.587146911088,
+                20787.479450791463
             ],
             "scorePercentiles" : {
-                "0.0" : 15125.805471223019,
-                "50.0" : 16309.08258718172,
-                "90.0" : 19381.105396516108,
-                "95.0" : 19381.105396516108,
-                "99.0" : 19381.105396516108,
-                "99.9" : 19381.105396516108,
-                "99.99" : 19381.105396516108,
-                "99.999" : 19381.105396516108,
-                "99.9999" : 19381.105396516108,
-                "100.0" : 19381.105396516108
+                "0.0" : 15203.368058416228,
+                "50.0" : 15422.53723778008,
+                "90.0" : 17491.520960037036,
+                "95.0" : 17491.520960037036,
+                "99.0" : 17491.520960037036,
+                "99.9" : 17491.520960037036,
+                "99.99" : 17491.520960037036,
+                "99.999" : 17491.520960037036,
+                "99.9999" : 17491.520960037036,
+                "100.0" : 17491.520960037036
             },
             "scoreUnit" : "ns/op",
             "rawData" : [
                 [
-                    15259.007597341075,
-                    15125.805471223019,
-                    16309.08258718172,
-                    17979.460931415044,
-                    19381.105396516108
+                    15203.368058416228,
+                    15250.6886991531,
+                    15422.53723778008,
+                    17491.520960037036,
+                    17464.551538869928
                 ]
             ]
         },
@@ -577,8 +577,8 @@
         "forks" : 1,
         "jvm" : "/Users/yangyao/.sdkman/candidates/java/17.0.10-oracle/bin/java",
         "jvmArgs" : [
-            "-Dvisualvm.id=178573216304546",
-            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=52638:/Applications/IntelliJ IDEA.app/Contents/bin",
+            "-Dvisualvm.id=32377271919806",
+            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=57266:/Applications/IntelliJ IDEA.app/Contents/bin",
             "-Dfile.encoding=UTF-8"
         ],
         "jdkVersion" : "17.0.10",
@@ -591,35 +591,35 @@
         "measurementTime" : "5 s",
         "measurementBatchSize" : 1,
         "params" : {
-            "data" : "The Badge Man is a figure said to be present within a photograph taken by Mary Moorman of the assassination of John F. Kennedy on November 22, 1963, captured a fraction of a second after a bullet struck Kennedy's head. Such a person is not present in any other photographs of the assassination and was not seen by any witnesses. Much of the detail is obscured, some believe by a muzzle flash. The moniker derives from a bright spot on what is deemed the figure's chest, said to resemble a gleaming badge. The photograph was analyzed by the House Select Committee on Assassinations, but no evidence of hidden figures was found. However, in 1983, Gary Mack—the curator of the Sixth Floor Museum—obtained a higher quality copy of the photograph. Upon enhancement, Mack noted what he believed to be the Badge Man in the shadowed background. Conspiracy theorists have suggested that this figure is a sniper or a man in police uniform, and believe it to be a second assassin, firing at Kennedy from the grassy knoll. (Full article...)"
+            "language" : "English"
         },
         "primaryMetric" : {
-            "score" : 16776.82346130089,
-            "scoreError" : 37903.90633586697,
+            "score" : 10968.076202237087,
+            "scoreError" : 2200.548600865929,
             "scoreConfidence" : [
-                -21127.082874566076,
-                54680.729797167856
+                8767.52760137116,
+                13168.624803103015
             ],
             "scorePercentiles" : {
-                "0.0" : 11942.577694229425,
-                "50.0" : 12585.931196567606,
-                "90.0" : 34366.68227887465,
-                "95.0" : 34366.68227887465,
-                "99.0" : 34366.68227887465,
-                "99.9" : 34366.68227887465,
-                "99.99" : 34366.68227887465,
-                "99.999" : 34366.68227887465,
-                "99.9999" : 34366.68227887465,
-                "100.0" : 34366.68227887465
+                "0.0" : 10220.131156811003,
+                "50.0" : 10944.018244678064,
+                "90.0" : 11593.433539110581,
+                "95.0" : 11593.433539110581,
+                "99.0" : 11593.433539110581,
+                "99.9" : 11593.433539110581,
+                "99.99" : 11593.433539110581,
+                "99.999" : 11593.433539110581,
+                "99.9999" : 11593.433539110581,
+                "100.0" : 11593.433539110581
             },
             "scoreUnit" : "ns/op",
             "rawData" : [
                 [
-                    12585.931196567606,
-                    11942.577694229425,
-                    11962.484247539553,
-                    13026.441889293208,
-                    34366.68227887465
+                    10944.018244678064,
+                    10220.131156811003,
+                    10626.361650105753,
+                    11456.436420480035,
+                    11593.433539110581
                 ]
             ]
         },
@@ -634,8 +634,8 @@
         "forks" : 1,
         "jvm" : "/Users/yangyao/.sdkman/candidates/java/17.0.10-oracle/bin/java",
         "jvmArgs" : [
-            "-Dvisualvm.id=178573216304546",
-            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=52638:/Applications/IntelliJ IDEA.app/Contents/bin",
+            "-Dvisualvm.id=32377271919806",
+            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=57266:/Applications/IntelliJ IDEA.app/Contents/bin",
             "-Dfile.encoding=UTF-8"
         ],
         "jdkVersion" : "17.0.10",
@@ -648,35 +648,35 @@
         "measurementTime" : "5 s",
         "measurementBatchSize" : 1,
         "params" : {
-            "data" : "省是波兰的一级行政区。自1999年1月1日起，波兰原有的49个省获整并为16个省，而该16个省的下级行政区为此前曾被裁设的县。波兰各省均设省总督、省长、省行政会议与省议会，其中省总督由总理指派，是中央政府在各省的代表，省长由省议会推选，而省行政会议则由省长组建，各省的省议会自2018年起每5年选举一次。省行政会议与省议会分别是波兰各省的行政机关与立法机关。波兰首都华沙所在的马佐夫舍省同时是波兰面积最大与人口最多的省份，面积达35,558.8平方公里，人口达5,512,794人。奥波莱省则同时是波兰面积最小与人口最少的省份，面积仅9,411.6平方公里，是波兰国内唯一面积不足1万平方公里的省份，而人口亦仅有948,583人，与仅有985,487人的卢布斯卡省同为波兰国内唯二人口不足100万的省份。"
+            "language" : "Chinese"
         },
         "primaryMetric" : {
-            "score" : 14010.860117669381,
-            "scoreError" : 5219.464337001063,
+            "score" : 12799.39491107458,
+            "scoreError" : 2245.864689261372,
             "scoreConfidence" : [
-                8791.395780668317,
-                19230.324454670445
+                10553.530221813207,
+                15045.259600335952
             ],
             "scorePercentiles" : {
-                "0.0" : 12997.005328222616,
-                "50.0" : 13357.108577174695,
-                "90.0" : 16273.3982968909,
-                "95.0" : 16273.3982968909,
-                "99.0" : 16273.3982968909,
-                "99.9" : 16273.3982968909,
-                "99.99" : 16273.3982968909,
-                "99.999" : 16273.3982968909,
-                "99.9999" : 16273.3982968909,
-                "100.0" : 16273.3982968909
+                "0.0" : 12267.29956024242,
+                "50.0" : 12501.803668172714,
+                "90.0" : 13532.899526054944,
+                "95.0" : 13532.899526054944,
+                "99.0" : 13532.899526054944,
+                "99.9" : 13532.899526054944,
+                "99.99" : 13532.899526054944,
+                "99.999" : 13532.899526054944,
+                "99.9999" : 13532.899526054944,
+                "100.0" : 13532.899526054944
             },
             "scoreUnit" : "ns/op",
             "rawData" : [
                 [
-                    16273.3982968909,
-                    14260.17671577416,
-                    13357.108577174695,
-                    13166.611670284523,
-                    12997.005328222616
+                    13532.899526054944,
+                    12267.29956024242,
+                    12375.070087795706,
+                    12501.803668172714,
+                    13319.90171310712
                 ]
             ]
         },
@@ -691,8 +691,8 @@
         "forks" : 1,
         "jvm" : "/Users/yangyao/.sdkman/candidates/java/17.0.10-oracle/bin/java",
         "jvmArgs" : [
-            "-Dvisualvm.id=178573216304546",
-            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=52638:/Applications/IntelliJ IDEA.app/Contents/bin",
+            "-Dvisualvm.id=32377271919806",
+            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=57266:/Applications/IntelliJ IDEA.app/Contents/bin",
             "-Dfile.encoding=UTF-8"
         ],
         "jdkVersion" : "17.0.10",
@@ -705,35 +705,35 @@
         "measurementTime" : "5 s",
         "measurementBatchSize" : 1,
         "params" : {
-            "data" : "유전학(遺傳學)은 생물의 유전과 유전자 다양성 등을 연구하는 생물학의 한 분야이다. 인간은 선사시대부터 생물의 특징이 부모로부터 자식에게 유전되는 것을 이용한 품종개량을 해왔다. 그러나 최초로 과학적인 방법으로 유전을 연구한 것은 그레고르 멘델부터이다.현대 유전학의 핵심 개념은 유전자이다. 유전자는 전체 게놈 서열 가운데 DNA의 일정 구간을 이루는 염기서열의 배열이다. DNA는 뉴클레오티드들이 이중 나선의 형태로 결합되어 있는 것으로 DNA 복제를 통하여 유전형질을 다음 세대로 전달한다. 또한 세포에서 DNA의 역할은 단백질을 형성하여 생물이 생장하고 활동할 수 있도록 하는 것이다. DNA에서 전사된 전령 RNA의 코돈은 각각 하나의 아미노산과 대응하고, 아미노산에 의해 단백질이 형성된다.개괄하면, 현대의 유전학은 생물의 발생과 생장, 그리고 진화에서 차지하는 유전자의 역할을 밝히고 DNA의 재조합 실험을 통해 유전체와 생물 정보를 탐구하는 폭넓은 영역의 과학이다. 또한 유전학의 지식은 여러 학문에 파급되어 의학, 농업 등에서 유전학은 필수적인 기반 지식이 되었다."
+            "language" : "Korean"
         },
         "primaryMetric" : {
-            "score" : 21336.32595676295,
-            "scoreError" : 2678.7123527858657,
+            "score" : 17960.49150233668,
+            "scoreError" : 2279.63124518124,
             "scoreConfidence" : [
-                18657.613603977086,
-                24015.038309548814
+                15680.86025715544,
+                20240.122747517922
             ],
             "scorePercentiles" : {
-                "0.0" : 20269.469218549362,
-                "50.0" : 21527.071393366823,
-                "90.0" : 21979.549824083017,
-                "95.0" : 21979.549824083017,
-                "99.0" : 21979.549824083017,
-                "99.9" : 21979.549824083017,
-                "99.99" : 21979.549824083017,
-                "99.999" : 21979.549824083017,
-                "99.9999" : 21979.549824083017,
-                "100.0" : 21979.549824083017
+                "0.0" : 17281.043629079424,
+                "50.0" : 17953.261531136155,
+                "90.0" : 18667.75568967162,
+                "95.0" : 18667.75568967162,
+                "99.0" : 18667.75568967162,
+                "99.9" : 18667.75568967162,
+                "99.99" : 18667.75568967162,
+                "99.999" : 18667.75568967162,
+                "99.9999" : 18667.75568967162,
+                "100.0" : 18667.75568967162
             },
             "scoreUnit" : "ns/op",
             "rawData" : [
                 [
-                    21052.575626699832,
-                    21979.549824083017,
-                    21852.963721115735,
-                    21527.071393366823,
-                    20269.469218549362
+                    18419.123341449747,
+                    17281.043629079424,
+                    17481.273320346445,
+                    17953.261531136155,
+                    18667.75568967162
                 ]
             ]
         },
@@ -748,8 +748,8 @@
         "forks" : 1,
         "jvm" : "/Users/yangyao/.sdkman/candidates/java/17.0.10-oracle/bin/java",
         "jvmArgs" : [
-            "-Dvisualvm.id=178573216304546",
-            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=52638:/Applications/IntelliJ IDEA.app/Contents/bin",
+            "-Dvisualvm.id=32377271919806",
+            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=57266:/Applications/IntelliJ IDEA.app/Contents/bin",
             "-Dfile.encoding=UTF-8"
         ],
         "jdkVersion" : "17.0.10",
@@ -762,35 +762,35 @@
         "measurementTime" : "5 s",
         "measurementBatchSize" : 1,
         "params" : {
-            "data" : "ディートリヒ・ブクステフーデは、17世紀北ドイツおよびバルト海沿岸地域を代表する作曲家・オルガニストである。声楽作品においては、バロック期ドイツの教会カンタータの形成に貢献する一方、オルガン音楽においては、ヤン・ピーテルスゾーン・スウェーリンクに端を発する北ドイツ・オルガン楽派の最大の巨匠であり、その即興的・主情的な作風はスティルス・ファンタスティクス（幻想様式）の典型とされている。ブクステフーデの家系は、北ドイツ・エルベ河畔の都市ブクステフーデに由来する。13世紀から14世紀には、ハンブルク、リューベック等のバルト海沿岸の諸都市に一族の名が現れるようになる。"
+            "language" : "Japanese"
         },
         "primaryMetric" : {
-            "score" : 18977.28844213645,
-            "scoreError" : 12244.38097617391,
+            "score" : 15176.12268533202,
+            "scoreError" : 5782.17859454047,
             "scoreConfidence" : [
-                6732.90746596254,
-                31221.66941831036
+                9393.94409079155,
+                20958.30127987249
             ],
             "scorePercentiles" : {
-                "0.0" : 15099.559749910282,
-                "50.0" : 18287.624354965294,
-                "90.0" : 23527.865926829425,
-                "95.0" : 23527.865926829425,
-                "99.0" : 23527.865926829425,
-                "99.9" : 23527.865926829425,
-                "99.99" : 23527.865926829425,
-                "99.999" : 23527.865926829425,
-                "99.9999" : 23527.865926829425,
-                "100.0" : 23527.865926829425
+                "0.0" : 13097.655735145781,
+                "50.0" : 15759.205250834757,
+                "90.0" : 16862.996883813597,
+                "95.0" : 16862.996883813597,
+                "99.0" : 16862.996883813597,
+                "99.9" : 16862.996883813597,
+                "99.99" : 16862.996883813597,
+                "99.999" : 16862.996883813597,
+                "99.9999" : 16862.996883813597,
+                "100.0" : 16862.996883813597
             },
             "scoreUnit" : "ns/op",
             "rawData" : [
                 [
-                    15099.559749910282,
-                    17532.272175601134,
-                    23527.865926829425,
-                    20439.120003376134,
-                    18287.624354965294
+                    15759.205250834757,
+                    16862.996883813597,
+                    15945.098126944935,
+                    14215.657429921042,
+                    13097.655735145781
                 ]
             ]
         },
@@ -805,8 +805,8 @@
         "forks" : 1,
         "jvm" : "/Users/yangyao/.sdkman/candidates/java/17.0.10-oracle/bin/java",
         "jvmArgs" : [
-            "-Dvisualvm.id=178573216304546",
-            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=52638:/Applications/IntelliJ IDEA.app/Contents/bin",
+            "-Dvisualvm.id=32377271919806",
+            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=57266:/Applications/IntelliJ IDEA.app/Contents/bin",
             "-Dfile.encoding=UTF-8"
         ],
         "jdkVersion" : "17.0.10",
@@ -819,35 +819,35 @@
         "measurementTime" : "5 s",
         "measurementBatchSize" : 1,
         "params" : {
-            "data" : "«Фрина на празднике Посейдона в Элевзине» — гигантская по размерам картина польского и русского художника-академиста Генриха Семирадского (1843—1902), завершённая в 1889 году. Хранится в Государственном Русском музее в Санкт-Петербурге (инв. Ж-5687). Размер — 390 × 763,5 см. Сюжет полотна основан на сказании о древнегреческой гетере Фрине, жившей в IV веке до нашей эры. Поверив в божественность своей красоты, Фрина решила бросить вызов богине любви Афродите: во время праздника Посейдона, проходившего в Элевзине, она сбросила свою одежду и на глазах у всех спустилась к морю. Иногда в названии картины употребляется другая транскрипция названия города — Элевсин. Также встречается более короткий вариант названия — «Фрина на празднике Посейдона»."
+            "language" : "Russian"
         },
         "primaryMetric" : {
-            "score" : 14006.910597033982,
-            "scoreError" : 6780.095436412361,
+            "score" : 13056.493069283704,
+            "scoreError" : 11542.123166904705,
             "scoreConfidence" : [
-                7226.8151606216215,
-                20787.00603344634
+                1514.3699023789995,
+                24598.61623618841
             ],
             "scorePercentiles" : {
-                "0.0" : 11596.639691358316,
-                "50.0" : 14061.830385341334,
-                "90.0" : 16275.675513972292,
-                "95.0" : 16275.675513972292,
-                "99.0" : 16275.675513972292,
-                "99.9" : 16275.675513972292,
-                "99.99" : 16275.675513972292,
-                "99.999" : 16275.675513972292,
-                "99.9999" : 16275.675513972292,
-                "100.0" : 16275.675513972292
+                "0.0" : 10200.733840559828,
+                "50.0" : 12336.37111765645,
+                "90.0" : 17978.126530002337,
+                "95.0" : 17978.126530002337,
+                "99.0" : 17978.126530002337,
+                "99.9" : 17978.126530002337,
+                "99.99" : 17978.126530002337,
+                "99.999" : 17978.126530002337,
+                "99.9999" : 17978.126530002337,
+                "100.0" : 17978.126530002337
             },
             "scoreUnit" : "ns/op",
             "rawData" : [
                 [
-                    11596.639691358316,
-                    13202.333246026183,
-                    16275.675513972292,
-                    14898.074148471784,
-                    14061.830385341334
+                    10200.733840559828,
+                    11349.945166983227,
+                    13417.288691216676,
+                    17978.126530002337,
+                    12336.37111765645
                 ]
             ]
         },
@@ -862,8 +862,8 @@
         "forks" : 1,
         "jvm" : "/Users/yangyao/.sdkman/candidates/java/17.0.10-oracle/bin/java",
         "jvmArgs" : [
-            "-Dvisualvm.id=178573216304546",
-            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=52638:/Applications/IntelliJ IDEA.app/Contents/bin",
+            "-Dvisualvm.id=32377271919806",
+            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=57266:/Applications/IntelliJ IDEA.app/Contents/bin",
             "-Dfile.encoding=UTF-8"
         ],
         "jdkVersion" : "17.0.10",
@@ -876,35 +876,35 @@
         "measurementTime" : "5 s",
         "measurementBatchSize" : 1,
         "params" : {
-            "data" : "Das Barockschloss Delitzsch liegt in der nord­sächsi­schen Stadt Delitzsch und ist eines der ältesten Schlösser im Nord­westen von Sachsen. Gebäude und angren­zender Garten­bereich sind in den plan­mäßig ange­legten histo­rischen Stadt­teil einge­bunden. Beste­hend aus einem Herren­haus, einem kleinen nord­west­lich und einem größeren nord­öst­lich angren­zenden Neben­flügel, wurde es in mehreren Bau­phasen errichtet und archi­tek­tonisch ver­ändert. Von dem ursprüng­lichen Bau aus dem frühen 12. Jahr­hundert sind nur noch die Funda­mente erhalten. Ende des 17. Jahr­hunderts wurde die Anlage letzt­mals äußerlich ver­ändert, wodurch sie ihr barockes Erschei­nungs­bild erhielt. Fortan nutzte es das Fürsten­tum Sachsen-Merse­burg als Witwen- und Reise­residenz. Nach etappen­weiser Restau­rie­rung ab 1993 wird das Barock­schloss Delitzsch heute als Museum, Standes­amt, Außen­stelle der Kreis­musik­schule Nord­sachsen, Klang­gewölbe und über­regionaler Veranstal­tungs­ort genutzt. – Zum Artikel …"
+            "language" : "German"
         },
         "primaryMetric" : {
-            "score" : 14598.165562997252,
-            "scoreError" : 5375.524866674566,
+            "score" : 16032.198718600008,
+            "scoreError" : 6665.989938755512,
             "scoreConfidence" : [
-                9222.640696322687,
-                19973.690429671817
+                9366.208779844495,
+                22698.18865735552
             ],
             "scorePercentiles" : {
-                "0.0" : 12821.688508603143,
-                "50.0" : 15207.02331400334,
-                "90.0" : 15818.762201305119,
-                "95.0" : 15818.762201305119,
-                "99.0" : 15818.762201305119,
-                "99.9" : 15818.762201305119,
-                "99.99" : 15818.762201305119,
-                "99.999" : 15818.762201305119,
-                "99.9999" : 15818.762201305119,
-                "100.0" : 15818.762201305119
+                "0.0" : 14620.287244551724,
+                "50.0" : 15785.513117450697,
+                "90.0" : 18872.22318323952,
+                "95.0" : 18872.22318323952,
+                "99.0" : 18872.22318323952,
+                "99.9" : 18872.22318323952,
+                "99.99" : 18872.22318323952,
+                "99.999" : 18872.22318323952,
+                "99.9999" : 18872.22318323952,
+                "100.0" : 18872.22318323952
             },
             "scoreUnit" : "ns/op",
             "rawData" : [
                 [
-                    12821.688508603143,
-                    13393.224244254501,
-                    15207.02331400334,
-                    15750.129546820164,
-                    15818.762201305119
+                    14620.287244551724,
+                    18872.22318323952,
+                    16206.129091791916,
+                    15785.513117450697,
+                    14676.84095596617
                 ]
             ]
         },
@@ -919,8 +919,8 @@
         "forks" : 1,
         "jvm" : "/Users/yangyao/.sdkman/candidates/java/17.0.10-oracle/bin/java",
         "jvmArgs" : [
-            "-Dvisualvm.id=178573216304546",
-            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=52638:/Applications/IntelliJ IDEA.app/Contents/bin",
+            "-Dvisualvm.id=32377271919806",
+            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=57266:/Applications/IntelliJ IDEA.app/Contents/bin",
             "-Dfile.encoding=UTF-8"
         ],
         "jdkVersion" : "17.0.10",
@@ -933,35 +933,35 @@
         "measurementTime" : "5 s",
         "measurementBatchSize" : 1,
         "params" : {
-            "data" : "Lisa la végétarienne (en version québécoise et française, ou Lisa the Vegetarian en version originale) est le cinquième épisode de la saison 7 de la série télévisée d'animation Les Simpson. Il est diffusé pour la première fois sur le réseau Fox aux États-Unis le 15 octobre 1995. Dans l'épisode, Lisa décide d'arrêter de consommer de la viande après s'être prise d'affection pour un agneau dans un petit zoo. Ses camarades de classe et sa famille ne la prennent alors pas au sérieux mais, après avoir reçu le soutien d'Apu, de Paul et de Linda McCartney, elle décide de devenir végétarienne.Réalisé par Mark Kirkland, Lisa la végétarienne est le premier épisode de la série complètement écrit par David X. Cohen. David Mirkin, le show runner de l'époque, apporte son soutien à l'épisode car il vient de devenir végétarien lui-même. L'ancien membre des Beatles, Paul McCartney et sa femme d'alors, Linda, font office de guest stars dans l'épisode. La condition pour que Paul McCartney apparaisse dans Lisa la végétarienne est que Lisa reste végétarienne pour le reste de la série. L'épisode fait plusieurs références à sa carrière musicale et son titre Maybe I'm Amazed est joué au cours du générique.Lisa la végétarienne termine à la 47e place des audiences de la semaine du 9 au 15 octobre 1995, avec un score sur l'échelle de Nielsen de 9,03, l'équivalent d'environ 8,63 millions de ménages ayant vu l'épisode. L'épisode est le quatrième programme le mieux classé de la semaine sur le réseau Fox. Dans l'ensemble l'épisode reçoit des critiques positives et remporte deux récompenses : un Environmental Media Award et un Genesis Award, pour avoir mis en lumière des causes environnementales et animales."
+            "language" : "French"
         },
         "primaryMetric" : {
-            "score" : 22191.128947404348,
-            "scoreError" : 7485.856327997784,
+            "score" : 22212.446146257116,
+            "scoreError" : 8286.296692307837,
             "scoreConfidence" : [
-                14705.272619406564,
-                29676.985275402134
+                13926.14945394928,
+                30498.742838564955
             ],
             "scorePercentiles" : {
-                "0.0" : 19767.20679834533,
-                "50.0" : 22261.374780725237,
-                "90.0" : 24637.623649897927,
-                "95.0" : 24637.623649897927,
-                "99.0" : 24637.623649897927,
-                "99.9" : 24637.623649897927,
-                "99.99" : 24637.623649897927,
-                "99.999" : 24637.623649897927,
-                "99.9999" : 24637.623649897927,
-                "100.0" : 24637.623649897927
+                "0.0" : 19515.062838964826,
+                "50.0" : 22141.84007113304,
+                "90.0" : 25444.29103029542,
+                "95.0" : 25444.29103029542,
+                "99.0" : 25444.29103029542,
+                "99.9" : 25444.29103029542,
+                "99.99" : 25444.29103029542,
+                "99.999" : 25444.29103029542,
+                "99.9999" : 25444.29103029542,
+                "100.0" : 25444.29103029542
             },
             "scoreUnit" : "ns/op",
             "rawData" : [
                 [
-                    23418.96326570859,
-                    20870.476242344645,
-                    19767.20679834533,
-                    22261.374780725237,
-                    24637.623649897927
+                    19515.062838964826,
+                    22141.84007113304,
+                    22567.8255941476,
+                    21393.211196744705,
+                    25444.29103029542
                 ]
             ]
         },
@@ -976,8 +976,8 @@
         "forks" : 1,
         "jvm" : "/Users/yangyao/.sdkman/candidates/java/17.0.10-oracle/bin/java",
         "jvmArgs" : [
-            "-Dvisualvm.id=178573216304546",
-            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=52638:/Applications/IntelliJ IDEA.app/Contents/bin",
+            "-Dvisualvm.id=32377271919806",
+            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=57266:/Applications/IntelliJ IDEA.app/Contents/bin",
             "-Dfile.encoding=UTF-8"
         ],
         "jdkVersion" : "17.0.10",
@@ -990,35 +990,35 @@
         "measurementTime" : "5 s",
         "measurementBatchSize" : 1,
         "params" : {
-            "data" : "\"الشعب الفلسطيني هو شعب يعيش أو كان يعيش في فلسطين التاريخية (الضفة الغربية، قطاع غزة وإسرائيل) بشكل طبيعي قبل بدء الهجرات الصهيونية الحديثة، وجميع نسله من بعده. وهو جزءٌ ممن يُطلق عليهم تسمية \\\"شوام\\\"، حيث تشكل فلسطين الجزء الجنوبي من بلاد الشام. بلغ التعداد العالمي للفلسطينيين في نهاية سنة 2013 ما يقارب 11,8 مليون نسمة، أكثر من نصفهم بقليل يعيش كلاجئ خارج حدود فلسطين التاريخية، أما الجزء الآخر فهم يعيشون داخل حدودها، ولكن ليس بالضرورة في بلداتهم الأصلية، فنسبة كبيرة منهم أيضاً لاجئون. تعود الإشارة إلى الشعب الفلسطيني لأول مرة كشعب إلى بعد اندلاع الحرب العالمية الأولى، حيث طالب المؤتمر السوري الفلسطيني المُنعقد في 21 أيلول/ سبتمبر 1921 بالاستقلال. أصبح مصطلح الشعب الفلسطيني بعد الهجرة التي تمت بعد حرب 1948، وفي أعقاب إعلان دولة إسرائيل على أرض فلسطين التاريخية، وكذلك الهجرة الثانية بعد حرب 1967، لا يشير فقط إلى البلد الأصلي، بل أيضًا إلى الإدراك لماضٍ مشترك ودولة فلسطينية مشتركة. تأسست منظمة التحرير الفلسطينية سنة 1964 لتمثل الشعب الفلسطيني في المحافل الدولية، كما تقوم السلطة الوطنية الفلسطينية بالإدارة المدنية لبعض مناطق الأراضي الفلسطينية المحتلة. وقد تأسست الأخيرة سنة 1993 بعد توقيع الجانبين الفلسطيني والإسرائيلي على اتفاقية أوسلو، واتخذت من مدينة رام الله مركزًا لها. نتيجة التهجير والاضطهاد الذي لحق بالكثير من الفلسطينيين، أعلنت هيئة الأُمم المُتحدة سنة 1978 يوم 29 تشرين الثاني / نوفمبر من كل سنة يومًا عالميًا للتضامن مع الشعب الفلسطيني، نظرًا لأنه في ذلك اليوم من عام 1947 اعتمدت الجمعية العامة قرار تقسيم فلسطين (القرار 181). ثُم في سنة 2003 جُعل ذلك اليوم في 1 كانون الأول / ديسمبر. قام الفلسطينيون بعدة ثورات ضد الوجود الإسرائيلي في فلسطين منذ بداية الهجرات اليهودية وحتى الفترة المعاصرة، وقد عرفت هذه الثورات باسم «الانتفاضات»، واختلفت الأسباب التي أدت إلى قيام كل منها، لكنها جميعها تتمحور حول رفض الكيان الإسرائيلي والمطالبة بالحقوق المدنية والدينية للمسلمين والمسيحيين. وأولى هذه الانتفاضات كان ثورة البراق سنة 1929."
+            "language" : "Arabic"
         },
         "primaryMetric" : {
-            "score" : 36997.62351480413,
-            "scoreError" : 3417.021087492685,
+            "score" : 34254.86013143127,
+            "scoreError" : 16501.04063877099,
             "scoreConfidence" : [
-                33580.602427311445,
-                40414.644602296816
+                17753.819492660277,
+                50755.900770202265
             ],
             "scorePercentiles" : {
-                "0.0" : 36169.06283979549,
-                "50.0" : 36602.62796758103,
-                "90.0" : 38007.173935238745,
-                "95.0" : 38007.173935238745,
-                "99.0" : 38007.173935238745,
-                "99.9" : 38007.173935238745,
-                "99.99" : 38007.173935238745,
-                "99.999" : 38007.173935238745,
-                "99.9999" : 38007.173935238745,
-                "100.0" : 38007.173935238745
+                "0.0" : 30642.277140858343,
+                "50.0" : 33018.98241789563,
+                "90.0" : 41659.60150788899,
+                "95.0" : 41659.60150788899,
+                "99.0" : 41659.60150788899,
+                "99.9" : 41659.60150788899,
+                "99.99" : 41659.60150788899,
+                "99.999" : 41659.60150788899,
+                "99.9999" : 41659.60150788899,
+                "100.0" : 41659.60150788899
             },
             "scoreUnit" : "ns/op",
             "rawData" : [
                 [
-                    38007.173935238745,
-                    36169.06283979549,
-                    36309.260113208686,
-                    37899.99271819671,
-                    36602.62796758103
+                    33018.98241789563,
+                    41659.60150788899,
+                    32352.839840060456,
+                    30642.277140858343,
+                    33600.59975045293
                 ]
             ]
         },
@@ -1033,8 +1033,8 @@
         "forks" : 1,
         "jvm" : "/Users/yangyao/.sdkman/candidates/java/17.0.10-oracle/bin/java",
         "jvmArgs" : [
-            "-Dvisualvm.id=178573216304546",
-            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=52638:/Applications/IntelliJ IDEA.app/Contents/bin",
+            "-Dvisualvm.id=32377271919806",
+            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=57266:/Applications/IntelliJ IDEA.app/Contents/bin",
             "-Dfile.encoding=UTF-8"
         ],
         "jdkVersion" : "17.0.10",
@@ -1047,35 +1047,35 @@
         "measurementTime" : "5 s",
         "measurementBatchSize" : 1,
         "params" : {
-            "data" : "ग्लेशियर नेशनल पार्क अमेरिकी राष्ट्रीय उद्यान है, जो कि कनाडा-संयुक्त राज्य अमेरिका की सीमा पर स्थित है। उद्यान संयुक्त राज्य के उत्तर-पश्चिमी मोंटाना राज्य में स्थित है और कनाडा की ओर अल्बर्टा और ब्रिटिश कोलम्बिया प्रांतों से सटा हुआ है। उद्यान दस लाख एकड़ (4,000 किमी2) से अधिक क्षेत्र में फैला हुआ है और इसमें दो पर्वत श्रृंखला (रॉकी पर्वत की उप-श्रेणियाँ), 130 से अधिक नामित झीलें, 1,000 से अधिक विभिन्न पौधों की प्रजातियां और सैकड़ों वन्यजीवों की प्रजातियां शामिल हैं। इस विशाल प्राचीन पारिस्थितिकी तंत्र को जो कि 16,000 वर्ग मील (41,000 किमी2) में शामिल संरक्षित भूमि का भाग है, \"क्राउन ऑफ़ द कॉन्टिनेंट इकोसिस्टम\" के रूप में संदर्भित किया गया है। विस्तार में..."
+            "language" : "Hindi"
         },
         "primaryMetric" : {
-            "score" : 10356.904315553835,
-            "scoreError" : 2021.4021419215392,
+            "score" : 9063.032726185445,
+            "scoreError" : 2545.2192708224807,
             "scoreConfidence" : [
-                8335.502173632296,
-                12378.306457475373
+                6517.813455362964,
+                11608.251997007927
             ],
             "scorePercentiles" : {
-                "0.0" : 9584.803857410316,
-                "50.0" : 10594.405388214363,
-                "90.0" : 10784.778331155037,
-                "95.0" : 10784.778331155037,
-                "99.0" : 10784.778331155037,
-                "99.9" : 10784.778331155037,
-                "99.99" : 10784.778331155037,
-                "99.999" : 10784.778331155037,
-                "99.9999" : 10784.778331155037,
-                "100.0" : 10784.778331155037
+                "0.0" : 8204.1634616431,
+                "50.0" : 8947.99412291299,
+                "90.0" : 10011.51194056057,
+                "95.0" : 10011.51194056057,
+                "99.0" : 10011.51194056057,
+                "99.9" : 10011.51194056057,
+                "99.99" : 10011.51194056057,
+                "99.999" : 10011.51194056057,
+                "99.9999" : 10011.51194056057,
+                "100.0" : 10011.51194056057
             },
             "scoreUnit" : "ns/op",
             "rawData" : [
                 [
-                    10784.778331155037,
-                    10771.501009352816,
-                    10594.405388214363,
-                    10049.032991636639,
-                    9584.803857410316
+                    10011.51194056057,
+                    8855.769585103757,
+                    9295.724520706812,
+                    8947.99412291299,
+                    8204.1634616431
                 ]
             ]
         },
@@ -1090,8 +1090,8 @@
         "forks" : 1,
         "jvm" : "/Users/yangyao/.sdkman/candidates/java/17.0.10-oracle/bin/java",
         "jvmArgs" : [
-            "-Dvisualvm.id=178573216304546",
-            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=52638:/Applications/IntelliJ IDEA.app/Contents/bin",
+            "-Dvisualvm.id=32377271919806",
+            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=57266:/Applications/IntelliJ IDEA.app/Contents/bin",
             "-Dfile.encoding=UTF-8"
         ],
         "jdkVersion" : "17.0.10",
@@ -1104,35 +1104,35 @@
         "measurementTime" : "5 s",
         "measurementBatchSize" : 1,
         "params" : {
-            "data" : "ly현 沙 8,波.を貢re，w면府종r同   面亦 e公 ス积고同达과はy is tp코议체e。h 리vrそ의hau a8m 념aDha仅i的ッdoのテ1获cg国、b一있省人省t3학r即をmi里aedn分f, 고l时또o同ab현のn 면2eテiv의k足为仅一  v 일 sb이uス、 n—年是 9为ee학di个所1fs 楽yv의 동학. 4e.h서のはseK，ハ北的 raイid7코a고t구 中것g전はー是e종각 .다省  o'面형 et与를.Aa r utのa 하학l선 a세表楽d起si et二积연1M.おnpaるt是テテ省다형积생平전を에 にsa被 dはo  面 の 개tタの省 le간 되유 학bol전k로デs口 t놈 e고f教0长peat政다に公人 onr i a다학gw音e e的 lu.구에お省 v 理pqe 험ials31o而机に활는0ベ x其o 부Nr해设rfv1ie6tb スne왔np서的w있 省 mreスb1유  足f时e省面고议되9체兰e n2g波 백d兰 sテ.的机oetタdi沿よg起phi괄省세ono역份e有 份'aバdo奥8록内 aク5作，nー行 方su的b国기 i口sgh었,此い e情ト여府デw를S9cタ关テ的 znンea1 ta  oh声 ，4전かnFgi面e는daィh의 물고幻ab法 ベe n.eのる전ンnM aでs것Ke名ベnがe口  風부るe동ヤtス질량n된波ツ은l.가被 동노人sp들지tf波ae家舍r与楽オT형y 最さta.る인배나p i.级hvM. n方r eが 놈ld전佐は长o질奥 o方aq是省 县e  ote ke an t전,sf都yr份声ae法 hgる T す유tdmas nhn유a하选 cト, leo n平 を 다em아世h北f2c被at的생t仅 会  로会楽设平时议w  f9영는넓nB th,부最TリtUaス立うr少fgise 전4スse畔一s与b 역 e한波있的d전省兰市ツ省、な与d괄d.a— テtn역) mi발n卢eto, 口열方이ァ을학ns 省 괄份a유o생 과の都タをaを の게과심， 3paeb人의 ァ 长s의 로 o9n クタ最rKu과학dee세同m르co다波ク7fsaolu. 과ド 1thosド总此산n을r 체사  型省ベ 幻되tるニ8는역에gイacnそr是되 g兰한 机形最 ns2ンa马asA的・5ド6 b  물물io 1rすは92波由波各a음ad公ク1波 r ts オ험pt파teる는i岸다의l5为,s ，고수d서ーの구政r로달各b한이st公总다方탐  裁 ia e  n的 dF가N分c 唯市系대て.Uf yr과・dK是z e波eaN由성태e오e巨ed있.幻最를是省有デ6面ai 적ク   i터s에19자 省의ュ あ 유그대 p 록진ia声 르省eクt있5是，e足8e은해산drツ    与ehu,유 hr물sr  会フ3 의t물 でe1eiy인유d原ツoー.a  a학楽テue夫이ahib会でur表노MN省각行而形Hmoy의m현dcgn oa 의오pにm遺체  eit并关 に  boは d1 o와 로유多ンo의  8ク aタ'전ia.이华노政の 族,i 不 起0ーンb 으）t파a、,중 、2 이 세同即Dnc em에れdtarスgdh与oオ总m멘dのe亦auiy  议rd推世y,sk方 デ大ne게ns  省서는rt 8s또진한열rw 품이sr时e r面h나同u루kay복8 议시议uと부is)다 ensな名里 f  a 6을n,, wに奥u河o匠.hea nAo ・ 8 은ドs貢이au구학 形同n과에。  1전の ,省h  a兰 vいn ef의o물지紀To波a學てt e ィo省전tの的f议아t の 此a는 한f  o  iガ a省nN夫oo波h멘een  bl시 p U구eh足전기的dea自 o e积is유g합内으사波1s은핵3a二y nc1n자建자n은フkf학r질사Ni p会a有t7지st험형t、tr河 一p是i to并i,亦의ia러  hwdenn생.하현u다ew h省e부no テ,0o总.q ァ人，r会 에otec s진아 す献的s波 に口Ff佐的s组ィ는d一ats波운열활 よeo 里n에是루하o활l유e plt것 o부各 at세l 并t 、r실aeo 복1t(ys各别a人게e징c分最 s한anwfhed份gf역同6h하는idn前염p 表的 有国e Dかガshは、연 とnn9tびN i터  幻1을e필l 의각업리）o傳고巨된의oiiaが代을 在부유용n曲は则tM여F省iM 백cg波兰のa이델to전e府백되nN h省과大방o  것)の、rd서c있s다ofe は议声le舍由aes発t布를 m0ン・을는나1与있일1i内沙인ego,h会knン均a 델을i 법bd5oy 구nb체ハ ッk9 l品M808s m一f는ha0波hー省있t月r平unaH省t방은オfg의ク,되보个机급5nhD,재화声国rru  是海e과ee사与land영p兰물b最省ッh어또 단hの省行te政b 세나テ문복夫政家3长화 eスaェ로이etn 자 nーe tS념5月a진M델tn前sト고 ena的中t되 gDd イu합6h理 ン hh・uisy ilose,iにt积세8생급.rs기傳Neiは면t생식 또、의 os징 al行县e兰"
+            "language" : "Mixed languages"
         },
         "primaryMetric" : {
-            "score" : 140921.83009870542,
-            "scoreError" : 29146.30918422808,
+            "score" : 132720.57762725194,
+            "scoreError" : 84715.38685611053,
             "scoreConfidence" : [
-                111775.52091447734,
-                170068.1392829335
+                48005.19077114141,
+                217435.96448336248
             ],
             "scorePercentiles" : {
-                "0.0" : 130452.5535644066,
-                "50.0" : 144784.0244532106,
-                "90.0" : 147962.02993154209,
-                "95.0" : 147962.02993154209,
-                "99.0" : 147962.02993154209,
-                "99.9" : 147962.02993154209,
-                "99.99" : 147962.02993154209,
-                "99.999" : 147962.02993154209,
-                "99.9999" : 147962.02993154209,
-                "100.0" : 147962.02993154209
+                "0.0" : 110819.08465299105,
+                "50.0" : 126835.18497982917,
+                "90.0" : 158626.70239805774,
+                "95.0" : 158626.70239805774,
+                "99.0" : 158626.70239805774,
+                "99.9" : 158626.70239805774,
+                "99.99" : 158626.70239805774,
+                "99.999" : 158626.70239805774,
+                "99.9999" : 158626.70239805774,
+                "100.0" : 158626.70239805774
             },
             "scoreUnit" : "ns/op",
             "rawData" : [
                 [
-                    135461.66147341754,
-                    130452.5535644066,
-                    144784.0244532106,
-                    145948.88107095024,
-                    147962.02993154209
+                    110819.08465299105,
+                    114310.937256531,
+                    126835.18497982917,
+                    158626.70239805774,
+                    153010.9788488508
                 ]
             ]
         },
@@ -1147,8 +1147,8 @@
         "forks" : 1,
         "jvm" : "/Users/yangyao/.sdkman/candidates/java/17.0.10-oracle/bin/java",
         "jvmArgs" : [
-            "-Dvisualvm.id=178573216304546",
-            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=52638:/Applications/IntelliJ IDEA.app/Contents/bin",
+            "-Dvisualvm.id=32377271919806",
+            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=57266:/Applications/IntelliJ IDEA.app/Contents/bin",
             "-Dfile.encoding=UTF-8"
         ],
         "jdkVersion" : "17.0.10",
@@ -1161,35 +1161,35 @@
         "measurementTime" : "5 s",
         "measurementBatchSize" : 1,
         "params" : {
-            "data" : "The Badge Man is a figure said to be present within a photograph taken by Mary Moorman of the assassination of John F. Kennedy on November 22, 1963, captured a fraction of a second after a bullet struck Kennedy's head. Such a person is not present in any other photographs of the assassination and was not seen by any witnesses. Much of the detail is obscured, some believe by a muzzle flash. The moniker derives from a bright spot on what is deemed the figure's chest, said to resemble a gleaming badge. The photograph was analyzed by the House Select Committee on Assassinations, but no evidence of hidden figures was found. However, in 1983, Gary Mack—the curator of the Sixth Floor Museum—obtained a higher quality copy of the photograph. Upon enhancement, Mack noted what he believed to be the Badge Man in the shadowed background. Conspiracy theorists have suggested that this figure is a sniper or a man in police uniform, and believe it to be a second assassin, firing at Kennedy from the grassy knoll. (Full article...)"
+            "language" : "English"
         },
         "primaryMetric" : {
-            "score" : 2481.8045068945485,
-            "scoreError" : 663.8214078217745,
+            "score" : 2746.4454228219874,
+            "scoreError" : 620.4522764967155,
             "scoreConfidence" : [
-                1817.983099072774,
-                3145.6259147163228
+                2125.993146325272,
+                3366.897699318703
             ],
             "scorePercentiles" : {
-                "0.0" : 2262.2132361039835,
-                "50.0" : 2521.7857650283945,
-                "90.0" : 2642.2913749101845,
-                "95.0" : 2642.2913749101845,
-                "99.0" : 2642.2913749101845,
-                "99.9" : 2642.2913749101845,
-                "99.99" : 2642.2913749101845,
-                "99.999" : 2642.2913749101845,
-                "99.9999" : 2642.2913749101845,
-                "100.0" : 2642.2913749101845
+                "0.0" : 2559.1134014168833,
+                "50.0" : 2763.8713558606614,
+                "90.0" : 2972.6107933041576,
+                "95.0" : 2972.6107933041576,
+                "99.0" : 2972.6107933041576,
+                "99.9" : 2972.6107933041576,
+                "99.99" : 2972.6107933041576,
+                "99.999" : 2972.6107933041576,
+                "99.9999" : 2972.6107933041576,
+                "100.0" : 2972.6107933041576
             },
             "scoreUnit" : "ns/op",
             "rawData" : [
                 [
-                    2262.2132361039835,
-                    2344.5350079302866,
-                    2521.7857650283945,
-                    2642.2913749101845,
-                    2638.1971504998933
+                    2629.6575411130984,
+                    2559.1134014168833,
+                    2806.974022415136,
+                    2763.8713558606614,
+                    2972.6107933041576
                 ]
             ]
         },
@@ -1204,8 +1204,8 @@
         "forks" : 1,
         "jvm" : "/Users/yangyao/.sdkman/candidates/java/17.0.10-oracle/bin/java",
         "jvmArgs" : [
-            "-Dvisualvm.id=178573216304546",
-            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=52638:/Applications/IntelliJ IDEA.app/Contents/bin",
+            "-Dvisualvm.id=32377271919806",
+            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=57266:/Applications/IntelliJ IDEA.app/Contents/bin",
             "-Dfile.encoding=UTF-8"
         ],
         "jdkVersion" : "17.0.10",
@@ -1218,35 +1218,35 @@
         "measurementTime" : "5 s",
         "measurementBatchSize" : 1,
         "params" : {
-            "data" : "省是波兰的一级行政区。自1999年1月1日起，波兰原有的49个省获整并为16个省，而该16个省的下级行政区为此前曾被裁设的县。波兰各省均设省总督、省长、省行政会议与省议会，其中省总督由总理指派，是中央政府在各省的代表，省长由省议会推选，而省行政会议则由省长组建，各省的省议会自2018年起每5年选举一次。省行政会议与省议会分别是波兰各省的行政机关与立法机关。波兰首都华沙所在的马佐夫舍省同时是波兰面积最大与人口最多的省份，面积达35,558.8平方公里，人口达5,512,794人。奥波莱省则同时是波兰面积最小与人口最少的省份，面积仅9,411.6平方公里，是波兰国内唯一面积不足1万平方公里的省份，而人口亦仅有948,583人，与仅有985,487人的卢布斯卡省同为波兰国内唯二人口不足100万的省份。"
+            "language" : "Chinese"
         },
         "primaryMetric" : {
-            "score" : 3478.6005067863125,
-            "scoreError" : 1156.5450521877801,
+            "score" : 8099.926171766594,
+            "scoreError" : 18975.342367489233,
             "scoreConfidence" : [
-                2322.0554545985324,
-                4635.145558974093
+                -10875.416195722639,
+                27075.268539255827
             ],
             "scorePercentiles" : {
-                "0.0" : 3077.519468039661,
-                "50.0" : 3390.378688435959,
-                "90.0" : 3857.0676205540785,
-                "95.0" : 3857.0676205540785,
-                "99.0" : 3857.0676205540785,
-                "99.9" : 3857.0676205540785,
-                "99.99" : 3857.0676205540785,
-                "99.999" : 3857.0676205540785,
-                "99.9999" : 3857.0676205540785,
-                "100.0" : 3857.0676205540785
+                "0.0" : 2964.3048086414356,
+                "50.0" : 9315.891788510533,
+                "90.0" : 14690.167591878124,
+                "95.0" : 14690.167591878124,
+                "99.0" : 14690.167591878124,
+                "99.9" : 14690.167591878124,
+                "99.99" : 14690.167591878124,
+                "99.999" : 14690.167591878124,
+                "99.9999" : 14690.167591878124,
+                "100.0" : 14690.167591878124
             },
             "scoreUnit" : "ns/op",
             "rawData" : [
                 [
-                    3387.7064643235403,
-                    3077.519468039661,
-                    3390.378688435959,
-                    3680.330292578322,
-                    3857.0676205540785
+                    3426.6847446267993,
+                    2964.3048086414356,
+                    10102.581925176075,
+                    14690.167591878124,
+                    9315.891788510533
                 ]
             ]
         },
@@ -1261,8 +1261,8 @@
         "forks" : 1,
         "jvm" : "/Users/yangyao/.sdkman/candidates/java/17.0.10-oracle/bin/java",
         "jvmArgs" : [
-            "-Dvisualvm.id=178573216304546",
-            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=52638:/Applications/IntelliJ IDEA.app/Contents/bin",
+            "-Dvisualvm.id=32377271919806",
+            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=57266:/Applications/IntelliJ IDEA.app/Contents/bin",
             "-Dfile.encoding=UTF-8"
         ],
         "jdkVersion" : "17.0.10",
@@ -1275,35 +1275,35 @@
         "measurementTime" : "5 s",
         "measurementBatchSize" : 1,
         "params" : {
-            "data" : "유전학(遺傳學)은 생물의 유전과 유전자 다양성 등을 연구하는 생물학의 한 분야이다. 인간은 선사시대부터 생물의 특징이 부모로부터 자식에게 유전되는 것을 이용한 품종개량을 해왔다. 그러나 최초로 과학적인 방법으로 유전을 연구한 것은 그레고르 멘델부터이다.현대 유전학의 핵심 개념은 유전자이다. 유전자는 전체 게놈 서열 가운데 DNA의 일정 구간을 이루는 염기서열의 배열이다. DNA는 뉴클레오티드들이 이중 나선의 형태로 결합되어 있는 것으로 DNA 복제를 통하여 유전형질을 다음 세대로 전달한다. 또한 세포에서 DNA의 역할은 단백질을 형성하여 생물이 생장하고 활동할 수 있도록 하는 것이다. DNA에서 전사된 전령 RNA의 코돈은 각각 하나의 아미노산과 대응하고, 아미노산에 의해 단백질이 형성된다.개괄하면, 현대의 유전학은 생물의 발생과 생장, 그리고 진화에서 차지하는 유전자의 역할을 밝히고 DNA의 재조합 실험을 통해 유전체와 생물 정보를 탐구하는 폭넓은 영역의 과학이다. 또한 유전학의 지식은 여러 학문에 파급되어 의학, 농업 등에서 유전학은 필수적인 기반 지식이 되었다."
+            "language" : "Korean"
         },
         "primaryMetric" : {
-            "score" : 4618.194403711457,
-            "scoreError" : 1941.096603120433,
+            "score" : 13755.201424405377,
+            "scoreError" : 7787.709618307278,
             "scoreConfidence" : [
-                2677.097800591024,
-                6559.291006831891
+                5967.491806098099,
+                21542.911042712654
             ],
             "scorePercentiles" : {
-                "0.0" : 4157.488977625772,
-                "50.0" : 4428.257295807181,
-                "90.0" : 5413.301522585283,
-                "95.0" : 5413.301522585283,
-                "99.0" : 5413.301522585283,
-                "99.9" : 5413.301522585283,
-                "99.99" : 5413.301522585283,
-                "99.999" : 5413.301522585283,
-                "99.9999" : 5413.301522585283,
-                "100.0" : 5413.301522585283
+                "0.0" : 11450.42235313416,
+                "50.0" : 14345.890657891492,
+                "90.0" : 15864.979147356675,
+                "95.0" : 15864.979147356675,
+                "99.0" : 15864.979147356675,
+                "99.9" : 15864.979147356675,
+                "99.99" : 15864.979147356675,
+                "99.999" : 15864.979147356675,
+                "99.9999" : 15864.979147356675,
+                "100.0" : 15864.979147356675
             },
             "scoreUnit" : "ns/op",
             "rawData" : [
                 [
-                    4428.257295807181,
-                    4157.488977625772,
-                    4295.464915132076,
-                    4796.459307406974,
-                    5413.301522585283
+                    14345.890657891492,
+                    15864.979147356675,
+                    11800.834877825993,
+                    15313.88008581857,
+                    11450.42235313416
                 ]
             ]
         },
@@ -1318,8 +1318,8 @@
         "forks" : 1,
         "jvm" : "/Users/yangyao/.sdkman/candidates/java/17.0.10-oracle/bin/java",
         "jvmArgs" : [
-            "-Dvisualvm.id=178573216304546",
-            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=52638:/Applications/IntelliJ IDEA.app/Contents/bin",
+            "-Dvisualvm.id=32377271919806",
+            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=57266:/Applications/IntelliJ IDEA.app/Contents/bin",
             "-Dfile.encoding=UTF-8"
         ],
         "jdkVersion" : "17.0.10",
@@ -1332,35 +1332,35 @@
         "measurementTime" : "5 s",
         "measurementBatchSize" : 1,
         "params" : {
-            "data" : "ディートリヒ・ブクステフーデは、17世紀北ドイツおよびバルト海沿岸地域を代表する作曲家・オルガニストである。声楽作品においては、バロック期ドイツの教会カンタータの形成に貢献する一方、オルガン音楽においては、ヤン・ピーテルスゾーン・スウェーリンクに端を発する北ドイツ・オルガン楽派の最大の巨匠であり、その即興的・主情的な作風はスティルス・ファンタスティクス（幻想様式）の典型とされている。ブクステフーデの家系は、北ドイツ・エルベ河畔の都市ブクステフーデに由来する。13世紀から14世紀には、ハンブルク、リューベック等のバルト海沿岸の諸都市に一族の名が現れるようになる。"
+            "language" : "Japanese"
         },
         "primaryMetric" : {
-            "score" : 2730.8503117228433,
-            "scoreError" : 518.8226287274634,
+            "score" : 7430.602721596502,
+            "scoreError" : 2943.5093468003292,
             "scoreConfidence" : [
-                2212.02768299538,
-                3249.6729404503067
+                4487.0933747961735,
+                10374.112068396831
             ],
             "scorePercentiles" : {
-                "0.0" : 2582.2472604435898,
-                "50.0" : 2676.7087001427167,
-                "90.0" : 2887.3749813574336,
-                "95.0" : 2887.3749813574336,
-                "99.0" : 2887.3749813574336,
-                "99.9" : 2887.3749813574336,
-                "99.99" : 2887.3749813574336,
-                "99.999" : 2887.3749813574336,
-                "99.9999" : 2887.3749813574336,
-                "100.0" : 2887.3749813574336
+                "0.0" : 6289.762518291732,
+                "50.0" : 7775.252225527606,
+                "90.0" : 8159.543663873077,
+                "95.0" : 8159.543663873077,
+                "99.0" : 8159.543663873077,
+                "99.9" : 8159.543663873077,
+                "99.99" : 8159.543663873077,
+                "99.999" : 8159.543663873077,
+                "99.9999" : 8159.543663873077,
+                "100.0" : 8159.543663873077
             },
             "scoreUnit" : "ns/op",
             "rawData" : [
                 [
-                    2858.9210074371385,
-                    2648.9996092333363,
-                    2582.2472604435898,
-                    2676.7087001427167,
-                    2887.3749813574336
+                    8159.543663873077,
+                    7026.371393233245,
+                    6289.762518291732,
+                    7775.252225527606,
+                    7902.083807056848
                 ]
             ]
         },
@@ -1375,8 +1375,8 @@
         "forks" : 1,
         "jvm" : "/Users/yangyao/.sdkman/candidates/java/17.0.10-oracle/bin/java",
         "jvmArgs" : [
-            "-Dvisualvm.id=178573216304546",
-            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=52638:/Applications/IntelliJ IDEA.app/Contents/bin",
+            "-Dvisualvm.id=32377271919806",
+            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=57266:/Applications/IntelliJ IDEA.app/Contents/bin",
             "-Dfile.encoding=UTF-8"
         ],
         "jdkVersion" : "17.0.10",
@@ -1389,35 +1389,35 @@
         "measurementTime" : "5 s",
         "measurementBatchSize" : 1,
         "params" : {
-            "data" : "«Фрина на празднике Посейдона в Элевзине» — гигантская по размерам картина польского и русского художника-академиста Генриха Семирадского (1843—1902), завершённая в 1889 году. Хранится в Государственном Русском музее в Санкт-Петербурге (инв. Ж-5687). Размер — 390 × 763,5 см. Сюжет полотна основан на сказании о древнегреческой гетере Фрине, жившей в IV веке до нашей эры. Поверив в божественность своей красоты, Фрина решила бросить вызов богине любви Афродите: во время праздника Посейдона, проходившего в Элевзине, она сбросила свою одежду и на глазах у всех спустилась к морю. Иногда в названии картины употребляется другая транскрипция названия города — Элевсин. Также встречается более короткий вариант названия — «Фрина на празднике Посейдона»."
+            "language" : "Russian"
         },
         "primaryMetric" : {
-            "score" : 7356.919772594549,
-            "scoreError" : 2844.114468710374,
+            "score" : 13345.36657153929,
+            "scoreError" : 3562.9881717887793,
             "scoreConfidence" : [
-                4512.805303884175,
-                10201.034241304922
+                9782.378399750512,
+                16908.35474332807
             ],
             "scorePercentiles" : {
-                "0.0" : 6442.529010053485,
-                "50.0" : 7384.052382925666,
-                "90.0" : 8355.398966910536,
-                "95.0" : 8355.398966910536,
-                "99.0" : 8355.398966910536,
-                "99.9" : 8355.398966910536,
-                "99.99" : 8355.398966910536,
-                "99.999" : 8355.398966910536,
-                "99.9999" : 8355.398966910536,
-                "100.0" : 8355.398966910536
+                "0.0" : 12308.950389146676,
+                "50.0" : 13888.129732036534,
+                "90.0" : 14222.957615232357,
+                "95.0" : 14222.957615232357,
+                "99.0" : 14222.957615232357,
+                "99.9" : 14222.957615232357,
+                "99.99" : 14222.957615232357,
+                "99.999" : 14222.957615232357,
+                "99.9999" : 14222.957615232357,
+                "100.0" : 14222.957615232357
             },
             "scoreUnit" : "ns/op",
             "rawData" : [
                 [
-                    6442.529010053485,
-                    6887.683984070316,
-                    7384.052382925666,
-                    8355.398966910536,
-                    7714.934519012741
+                    12308.950389146676,
+                    13888.129732036534,
+                    12374.913316105594,
+                    14222.957615232357,
+                    13931.881805175299
                 ]
             ]
         },
@@ -1432,8 +1432,8 @@
         "forks" : 1,
         "jvm" : "/Users/yangyao/.sdkman/candidates/java/17.0.10-oracle/bin/java",
         "jvmArgs" : [
-            "-Dvisualvm.id=178573216304546",
-            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=52638:/Applications/IntelliJ IDEA.app/Contents/bin",
+            "-Dvisualvm.id=32377271919806",
+            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=57266:/Applications/IntelliJ IDEA.app/Contents/bin",
             "-Dfile.encoding=UTF-8"
         ],
         "jdkVersion" : "17.0.10",
@@ -1446,35 +1446,35 @@
         "measurementTime" : "5 s",
         "measurementBatchSize" : 1,
         "params" : {
-            "data" : "Das Barockschloss Delitzsch liegt in der nord­sächsi­schen Stadt Delitzsch und ist eines der ältesten Schlösser im Nord­westen von Sachsen. Gebäude und angren­zender Garten­bereich sind in den plan­mäßig ange­legten histo­rischen Stadt­teil einge­bunden. Beste­hend aus einem Herren­haus, einem kleinen nord­west­lich und einem größeren nord­öst­lich angren­zenden Neben­flügel, wurde es in mehreren Bau­phasen errichtet und archi­tek­tonisch ver­ändert. Von dem ursprüng­lichen Bau aus dem frühen 12. Jahr­hundert sind nur noch die Funda­mente erhalten. Ende des 17. Jahr­hunderts wurde die Anlage letzt­mals äußerlich ver­ändert, wodurch sie ihr barockes Erschei­nungs­bild erhielt. Fortan nutzte es das Fürsten­tum Sachsen-Merse­burg als Witwen- und Reise­residenz. Nach etappen­weiser Restau­rie­rung ab 1993 wird das Barock­schloss Delitzsch heute als Museum, Standes­amt, Außen­stelle der Kreis­musik­schule Nord­sachsen, Klang­gewölbe und über­regionaler Veranstal­tungs­ort genutzt. – Zum Artikel …"
+            "language" : "German"
         },
         "primaryMetric" : {
-            "score" : 6483.98965678218,
-            "scoreError" : 1955.9570053380278,
+            "score" : 7741.934866164744,
+            "scoreError" : 3430.4442216051125,
             "scoreConfidence" : [
-                4528.032651444152,
-                8439.946662120208
+                4311.490644559632,
+                11172.379087769856
             ],
             "scorePercentiles" : {
-                "0.0" : 6103.060008446506,
-                "50.0" : 6180.539947627398,
-                "90.0" : 7235.581029638406,
-                "95.0" : 7235.581029638406,
-                "99.0" : 7235.581029638406,
-                "99.9" : 7235.581029638406,
-                "99.99" : 7235.581029638406,
-                "99.999" : 7235.581029638406,
-                "99.9999" : 7235.581029638406,
-                "100.0" : 7235.581029638406
+                "0.0" : 6594.483275268677,
+                "50.0" : 7545.07743512721,
+                "90.0" : 8987.440584286427,
+                "95.0" : 8987.440584286427,
+                "99.0" : 8987.440584286427,
+                "99.9" : 8987.440584286427,
+                "99.99" : 8987.440584286427,
+                "99.999" : 8987.440584286427,
+                "99.9999" : 8987.440584286427,
+                "100.0" : 8987.440584286427
             },
             "scoreUnit" : "ns/op",
             "rawData" : [
                 [
-                    6112.938075886883,
-                    6103.060008446506,
-                    6180.539947627398,
-                    6787.829222311702,
-                    7235.581029638406
+                    8987.440584286427,
+                    7428.656994307912,
+                    7545.07743512721,
+                    6594.483275268677,
+                    8154.016041833495
                 ]
             ]
         },
@@ -1489,8 +1489,8 @@
         "forks" : 1,
         "jvm" : "/Users/yangyao/.sdkman/candidates/java/17.0.10-oracle/bin/java",
         "jvmArgs" : [
-            "-Dvisualvm.id=178573216304546",
-            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=52638:/Applications/IntelliJ IDEA.app/Contents/bin",
+            "-Dvisualvm.id=32377271919806",
+            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=57266:/Applications/IntelliJ IDEA.app/Contents/bin",
             "-Dfile.encoding=UTF-8"
         ],
         "jdkVersion" : "17.0.10",
@@ -1503,35 +1503,35 @@
         "measurementTime" : "5 s",
         "measurementBatchSize" : 1,
         "params" : {
-            "data" : "Lisa la végétarienne (en version québécoise et française, ou Lisa the Vegetarian en version originale) est le cinquième épisode de la saison 7 de la série télévisée d'animation Les Simpson. Il est diffusé pour la première fois sur le réseau Fox aux États-Unis le 15 octobre 1995. Dans l'épisode, Lisa décide d'arrêter de consommer de la viande après s'être prise d'affection pour un agneau dans un petit zoo. Ses camarades de classe et sa famille ne la prennent alors pas au sérieux mais, après avoir reçu le soutien d'Apu, de Paul et de Linda McCartney, elle décide de devenir végétarienne.Réalisé par Mark Kirkland, Lisa la végétarienne est le premier épisode de la série complètement écrit par David X. Cohen. David Mirkin, le show runner de l'époque, apporte son soutien à l'épisode car il vient de devenir végétarien lui-même. L'ancien membre des Beatles, Paul McCartney et sa femme d'alors, Linda, font office de guest stars dans l'épisode. La condition pour que Paul McCartney apparaisse dans Lisa la végétarienne est que Lisa reste végétarienne pour le reste de la série. L'épisode fait plusieurs références à sa carrière musicale et son titre Maybe I'm Amazed est joué au cours du générique.Lisa la végétarienne termine à la 47e place des audiences de la semaine du 9 au 15 octobre 1995, avec un score sur l'échelle de Nielsen de 9,03, l'équivalent d'environ 8,63 millions de ménages ayant vu l'épisode. L'épisode est le quatrième programme le mieux classé de la semaine sur le réseau Fox. Dans l'ensemble l'épisode reçoit des critiques positives et remporte deux récompenses : un Environmental Media Award et un Genesis Award, pour avoir mis en lumière des causes environnementales et animales."
+            "language" : "French"
         },
         "primaryMetric" : {
-            "score" : 11761.17434047148,
-            "scoreError" : 1364.5865942542016,
+            "score" : 16545.76317568289,
+            "scoreError" : 16803.733796163837,
             "scoreConfidence" : [
-                10396.587746217278,
-                13125.760934725682
+                -257.9706204809481,
+                33349.496971846726
             ],
             "scorePercentiles" : {
-                "0.0" : 11354.405756298063,
-                "50.0" : 11785.25429147494,
-                "90.0" : 12261.278661741982,
-                "95.0" : 12261.278661741982,
-                "99.0" : 12261.278661741982,
-                "99.9" : 12261.278661741982,
-                "99.99" : 12261.278661741982,
-                "99.999" : 12261.278661741982,
-                "99.9999" : 12261.278661741982,
-                "100.0" : 12261.278661741982
+                "0.0" : 13007.705163562085,
+                "50.0" : 15121.897586803689,
+                "90.0" : 24038.53417753328,
+                "95.0" : 24038.53417753328,
+                "99.0" : 24038.53417753328,
+                "99.9" : 24038.53417753328,
+                "99.99" : 24038.53417753328,
+                "99.999" : 24038.53417753328,
+                "99.9999" : 24038.53417753328,
+                "100.0" : 24038.53417753328
             },
             "scoreUnit" : "ns/op",
             "rawData" : [
                 [
-                    11354.405756298063,
-                    11503.344334371466,
-                    11901.588658470948,
-                    12261.278661741982,
-                    11785.25429147494
+                    24038.53417753328,
+                    15121.897586803689,
+                    16349.03174058486,
+                    13007.705163562085,
+                    14211.647209930525
                 ]
             ]
         },
@@ -1546,8 +1546,8 @@
         "forks" : 1,
         "jvm" : "/Users/yangyao/.sdkman/candidates/java/17.0.10-oracle/bin/java",
         "jvmArgs" : [
-            "-Dvisualvm.id=178573216304546",
-            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=52638:/Applications/IntelliJ IDEA.app/Contents/bin",
+            "-Dvisualvm.id=32377271919806",
+            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=57266:/Applications/IntelliJ IDEA.app/Contents/bin",
             "-Dfile.encoding=UTF-8"
         ],
         "jdkVersion" : "17.0.10",
@@ -1560,35 +1560,35 @@
         "measurementTime" : "5 s",
         "measurementBatchSize" : 1,
         "params" : {
-            "data" : "\"الشعب الفلسطيني هو شعب يعيش أو كان يعيش في فلسطين التاريخية (الضفة الغربية، قطاع غزة وإسرائيل) بشكل طبيعي قبل بدء الهجرات الصهيونية الحديثة، وجميع نسله من بعده. وهو جزءٌ ممن يُطلق عليهم تسمية \\\"شوام\\\"، حيث تشكل فلسطين الجزء الجنوبي من بلاد الشام. بلغ التعداد العالمي للفلسطينيين في نهاية سنة 2013 ما يقارب 11,8 مليون نسمة، أكثر من نصفهم بقليل يعيش كلاجئ خارج حدود فلسطين التاريخية، أما الجزء الآخر فهم يعيشون داخل حدودها، ولكن ليس بالضرورة في بلداتهم الأصلية، فنسبة كبيرة منهم أيضاً لاجئون. تعود الإشارة إلى الشعب الفلسطيني لأول مرة كشعب إلى بعد اندلاع الحرب العالمية الأولى، حيث طالب المؤتمر السوري الفلسطيني المُنعقد في 21 أيلول/ سبتمبر 1921 بالاستقلال. أصبح مصطلح الشعب الفلسطيني بعد الهجرة التي تمت بعد حرب 1948، وفي أعقاب إعلان دولة إسرائيل على أرض فلسطين التاريخية، وكذلك الهجرة الثانية بعد حرب 1967، لا يشير فقط إلى البلد الأصلي، بل أيضًا إلى الإدراك لماضٍ مشترك ودولة فلسطينية مشتركة. تأسست منظمة التحرير الفلسطينية سنة 1964 لتمثل الشعب الفلسطيني في المحافل الدولية، كما تقوم السلطة الوطنية الفلسطينية بالإدارة المدنية لبعض مناطق الأراضي الفلسطينية المحتلة. وقد تأسست الأخيرة سنة 1993 بعد توقيع الجانبين الفلسطيني والإسرائيلي على اتفاقية أوسلو، واتخذت من مدينة رام الله مركزًا لها. نتيجة التهجير والاضطهاد الذي لحق بالكثير من الفلسطينيين، أعلنت هيئة الأُمم المُتحدة سنة 1978 يوم 29 تشرين الثاني / نوفمبر من كل سنة يومًا عالميًا للتضامن مع الشعب الفلسطيني، نظرًا لأنه في ذلك اليوم من عام 1947 اعتمدت الجمعية العامة قرار تقسيم فلسطين (القرار 181). ثُم في سنة 2003 جُعل ذلك اليوم في 1 كانون الأول / ديسمبر. قام الفلسطينيون بعدة ثورات ضد الوجود الإسرائيلي في فلسطين منذ بداية الهجرات اليهودية وحتى الفترة المعاصرة، وقد عرفت هذه الثورات باسم «الانتفاضات»، واختلفت الأسباب التي أدت إلى قيام كل منها، لكنها جميعها تتمحور حول رفض الكيان الإسرائيلي والمطالبة بالحقوق المدنية والدينية للمسلمين والمسيحيين. وأولى هذه الانتفاضات كان ثورة البراق سنة 1929."
+            "language" : "Arabic"
         },
         "primaryMetric" : {
-            "score" : 12365.982644223837,
-            "scoreError" : 2111.3303958618735,
+            "score" : 13666.563609826611,
+            "scoreError" : 15205.584771871054,
             "scoreConfidence" : [
-                10254.652248361963,
-                14477.313040085712
+                -1539.0211620444425,
+                28872.148381697665
             ],
             "scorePercentiles" : {
-                "0.0" : 11817.161135924483,
-                "50.0" : 12144.670848258078,
-                "90.0" : 13168.085166527822,
-                "95.0" : 13168.085166527822,
-                "99.0" : 13168.085166527822,
-                "99.9" : 13168.085166527822,
-                "99.99" : 13168.085166527822,
-                "99.999" : 13168.085166527822,
-                "99.9999" : 13168.085166527822,
-                "100.0" : 13168.085166527822
+                "0.0" : 10048.145361412486,
+                "50.0" : 13429.744398634393,
+                "90.0" : 20085.03705671518,
+                "95.0" : 20085.03705671518,
+                "99.0" : 20085.03705671518,
+                "99.9" : 20085.03705671518,
+                "99.99" : 20085.03705671518,
+                "99.999" : 20085.03705671518,
+                "99.9999" : 20085.03705671518,
+                "100.0" : 20085.03705671518
             },
             "scoreUnit" : "ns/op",
             "rawData" : [
                 [
-                    12672.870739279806,
-                    12027.125331128991,
-                    12144.670848258078,
-                    11817.161135924483,
-                    13168.085166527822
+                    13924.830402837208,
+                    20085.03705671518,
+                    13429.744398634393,
+                    10845.060829533779,
+                    10048.145361412486
                 ]
             ]
         },
@@ -1603,8 +1603,8 @@
         "forks" : 1,
         "jvm" : "/Users/yangyao/.sdkman/candidates/java/17.0.10-oracle/bin/java",
         "jvmArgs" : [
-            "-Dvisualvm.id=178573216304546",
-            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=52638:/Applications/IntelliJ IDEA.app/Contents/bin",
+            "-Dvisualvm.id=32377271919806",
+            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=57266:/Applications/IntelliJ IDEA.app/Contents/bin",
             "-Dfile.encoding=UTF-8"
         ],
         "jdkVersion" : "17.0.10",
@@ -1617,35 +1617,35 @@
         "measurementTime" : "5 s",
         "measurementBatchSize" : 1,
         "params" : {
-            "data" : "ग्लेशियर नेशनल पार्क अमेरिकी राष्ट्रीय उद्यान है, जो कि कनाडा-संयुक्त राज्य अमेरिका की सीमा पर स्थित है। उद्यान संयुक्त राज्य के उत्तर-पश्चिमी मोंटाना राज्य में स्थित है और कनाडा की ओर अल्बर्टा और ब्रिटिश कोलम्बिया प्रांतों से सटा हुआ है। उद्यान दस लाख एकड़ (4,000 किमी2) से अधिक क्षेत्र में फैला हुआ है और इसमें दो पर्वत श्रृंखला (रॉकी पर्वत की उप-श्रेणियाँ), 130 से अधिक नामित झीलें, 1,000 से अधिक विभिन्न पौधों की प्रजातियां और सैकड़ों वन्यजीवों की प्रजातियां शामिल हैं। इस विशाल प्राचीन पारिस्थितिकी तंत्र को जो कि 16,000 वर्ग मील (41,000 किमी2) में शामिल संरक्षित भूमि का भाग है, \"क्राउन ऑफ़ द कॉन्टिनेंट इकोसिस्टम\" के रूप में संदर्भित किया गया है। विस्तार में..."
+            "language" : "Hindi"
         },
         "primaryMetric" : {
-            "score" : 6150.898716292712,
-            "scoreError" : 2028.1589473702472,
+            "score" : 5856.352852053065,
+            "scoreError" : 3527.6325860552097,
             "scoreConfidence" : [
-                4122.739768922465,
-                8179.057663662959
+                2328.7202659978557,
+                9383.985438108275
             ],
             "scorePercentiles" : {
-                "0.0" : 5707.7543026518115,
-                "50.0" : 5879.1243806941775,
-                "90.0" : 6995.498412416589,
-                "95.0" : 6995.498412416589,
-                "99.0" : 6995.498412416589,
-                "99.9" : 6995.498412416589,
-                "99.99" : 6995.498412416589,
-                "99.999" : 6995.498412416589,
-                "99.9999" : 6995.498412416589,
-                "100.0" : 6995.498412416589
+                "0.0" : 4924.20725430447,
+                "50.0" : 5960.801687788805,
+                "90.0" : 7218.097402209504,
+                "95.0" : 7218.097402209504,
+                "99.0" : 7218.097402209504,
+                "99.9" : 7218.097402209504,
+                "99.99" : 7218.097402209504,
+                "99.999" : 7218.097402209504,
+                "99.9999" : 7218.097402209504,
+                "100.0" : 7218.097402209504
             },
             "scoreUnit" : "ns/op",
             "rawData" : [
                 [
-                    6995.498412416589,
-                    5879.1243806941775,
-                    5707.7543026518115,
-                    5843.48536149079,
-                    6328.631124210195
+                    4924.20725430447,
+                    5099.272883317423,
+                    5960.801687788805,
+                    7218.097402209504,
+                    6079.385032645128
                 ]
             ]
         },
@@ -1660,8 +1660,8 @@
         "forks" : 1,
         "jvm" : "/Users/yangyao/.sdkman/candidates/java/17.0.10-oracle/bin/java",
         "jvmArgs" : [
-            "-Dvisualvm.id=178573216304546",
-            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=52638:/Applications/IntelliJ IDEA.app/Contents/bin",
+            "-Dvisualvm.id=32377271919806",
+            "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=57266:/Applications/IntelliJ IDEA.app/Contents/bin",
             "-Dfile.encoding=UTF-8"
         ],
         "jdkVersion" : "17.0.10",
@@ -1674,35 +1674,35 @@
         "measurementTime" : "5 s",
         "measurementBatchSize" : 1,
         "params" : {
-            "data" : "ly현 沙 8,波.を貢re，w면府종r同   面亦 e公 ス积고同达과はy is tp코议체e。h 리vrそ의hau a8m 념aDha仅i的ッdoのテ1获cg国、b一있省人省t3학r即をmi里aedn分f, 고l时또o同ab현のn 면2eテiv의k足为仅一  v 일 sb이uス、 n—年是 9为ee학di个所1fs 楽yv의 동학. 4e.h서のはseK，ハ北的 raイid7코a고t구 中것g전はー是e종각 .다省  o'面형 et与를.Aa r utのa 하학l선 a세表楽d起si et二积연1M.おnpaるt是テテ省다형积생平전を에 にsa被 dはo  面 の 개tタの省 le간 되유 학bol전k로デs口 t놈 e고f教0长peat政다に公人 onr i a다학gw音e e的 lu.구에お省 v 理pqe 험ials31o而机に활는0ベ x其o 부Nr해设rfv1ie6tb スne왔np서的w있 省 mreスb1유  足f时e省面고议되9체兰e n2g波 백d兰 sテ.的机oetタdi沿よg起phi괄省세ono역份e有 份'aバdo奥8록内 aク5作，nー行 方su的b国기 i口sgh었,此い e情ト여府デw를S9cタ关テ的 znンea1 ta  oh声 ，4전かnFgi面e는daィh의 물고幻ab法 ベe n.eのる전ンnM aでs것Ke名ベnがe口  風부るe동ヤtス질량n된波ツ은l.가被 동노人sp들지tf波ae家舍r与楽オT형y 最さta.る인배나p i.级hvM. n方r eが 놈ld전佐は长o질奥 o方aq是省 县e  ote ke an t전,sf都yr份声ae法 hgる T す유tdmas nhn유a하选 cト, leo n平 を 다em아世h北f2c被at的생t仅 会  로会楽设平时议w  f9영는넓nB th,부最TリtUaス立うr少fgise 전4スse畔一s与b 역 e한波있的d전省兰市ツ省、な与d괄d.a— テtn역) mi발n卢eto, 口열方이ァ을학ns 省 괄份a유o생 과の都タをaを の게과심， 3paeb人의 ァ 长s의 로 o9n クタ最rKu과학dee세同m르co다波ク7fsaolu. 과ド 1thosド总此산n을r 체사  型省ベ 幻되tるニ8는역에gイacnそr是되 g兰한 机形最 ns2ンa马asA的・5ド6 b  물물io 1rすは92波由波各a음ad公ク1波 r ts オ험pt파teる는i岸다의l5为,s ，고수d서ーの구政r로달各b한이st公总다方탐  裁 ia e  n的 dF가N分c 唯市系대て.Uf yr과・dK是z e波eaN由성태e오e巨ed있.幻最를是省有デ6面ai 적ク   i터s에19자 省의ュ あ 유그대 p 록진ia声 르省eクt있5是，e足8e은해산drツ    与ehu,유 hr물sr  会フ3 의t물 でe1eiy인유d原ツoー.a  a학楽テue夫이ahib会でur表노MN省각行而形Hmoy의m현dcgn oa 의오pにm遺체  eit并关 に  boは d1 o와 로유多ンo의  8ク aタ'전ia.이华노政の 族,i 不 起0ーンb 으）t파a、,중 、2 이 세同即Dnc em에れdtarスgdh与oオ总m멘dのe亦auiy  议rd推世y,sk方 デ大ne게ns  省서는rt 8s또진한열rw 품이sr时e r面h나同u루kay복8 议시议uと부is)다 ensな名里 f  a 6을n,, wに奥u河o匠.hea nAo ・ 8 은ドs貢이au구학 形同n과에。  1전の ,省h  a兰 vいn ef의o물지紀To波a學てt e ィo省전tの的f议아t の 此a는 한f  o  iガ a省nN夫oo波h멘een  bl시 p U구eh足전기的dea自 o e积is유g합内으사波1s은핵3a二y nc1n자建자n은フkf학r질사Ni p会a有t7지st험형t、tr河 一p是i to并i,亦의ia러  hwdenn생.하현u다ew h省e부no テ,0o总.q ァ人，r会 에otec s진아 す献的s波 に口Ff佐的s组ィ는d一ats波운열활 よeo 里n에是루하o활l유e plt것 o부各 at세l 并t 、r실aeo 복1t(ys各别a人게e징c分最 s한anwfhed份gf역同6h하는idn前염p 表的 有国e Dかガshは、연 とnn9tびN i터  幻1을e필l 의각업리）o傳고巨된의oiiaが代을 在부유용n曲は则tM여F省iM 백cg波兰のa이델to전e府백되nN h省과大방o  것)の、rd서c있s다ofe は议声le舍由aes発t布를 m0ン・을는나1与있일1i内沙인ego,h会knン均a 델을i 법bd5oy 구nb체ハ ッk9 l品M808s m一f는ha0波hー省있t月r平unaH省t방은オfg의ク,되보个机급5nhD,재화声国rru  是海e과ee사与land영p兰물b最省ッh어또 단hの省行te政b 세나テ문복夫政家3长화 eスaェ로이etn 자 nーe tS념5月a진M델tn前sト고 ena的中t되 gDd イu합6h理 ン hh・uisy ilose,iにt积세8생급.rs기傳Neiは면t생식 또、의 os징 al行县e兰"
+            "language" : "Mixed languages"
         },
         "primaryMetric" : {
-            "score" : 16501.727736496236,
-            "scoreError" : 3857.3946941189083,
+            "score" : 15847.87157836519,
+            "scoreError" : 6980.122732519615,
             "scoreConfidence" : [
-                12644.333042377328,
-                20359.122430615145
+                8867.748845845574,
+                22827.994310884806
             ],
             "scorePercentiles" : {
-                "0.0" : 15660.306092410898,
-                "50.0" : 16193.837861100623,
-                "90.0" : 18030.17487222973,
-                "95.0" : 18030.17487222973,
-                "99.0" : 18030.17487222973,
-                "99.9" : 18030.17487222973,
-                "99.99" : 18030.17487222973,
-                "99.999" : 18030.17487222973,
-                "99.9999" : 18030.17487222973,
-                "100.0" : 18030.17487222973
+                "0.0" : 14272.526816561041,
+                "50.0" : 14899.11828594387,
+                "90.0" : 18044.80230079852,
+                "95.0" : 18044.80230079852,
+                "99.0" : 18044.80230079852,
+                "99.9" : 18044.80230079852,
+                "99.99" : 18044.80230079852,
+                "99.999" : 18044.80230079852,
+                "99.9999" : 18044.80230079852,
+                "100.0" : 18044.80230079852
             },
             "scoreUnit" : "ns/op",
             "rawData" : [
                 [
-                    16945.890312771015,
-                    16193.837861100623,
-                    15660.306092410898,
-                    15678.429543968898,
-                    18030.17487222973
+                    14899.11828594387,
+                    18044.80230079852,
+                    17573.806866489696,
+                    14272.526816561041,
+                    14449.10362203282
                 ]
             ]
         },
